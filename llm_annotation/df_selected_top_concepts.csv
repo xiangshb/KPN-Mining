@@ -1,0 +1,1001 @@
+,id,level,display_name,works_count,llm_annotation,multiple_level_0_ancestors
+0,C33923547,0,Mathematics,3349781,Mathematics,Mathematics
+1,C145420912,1,Mathematics education,1816044,Mathematics,"Mathematics,Psychology"
+2,C202444582,1,Pure mathematics,872395,Mathematics,Mathematics
+3,C28826006,1,Applied mathematics,829214,Mathematics,Mathematics
+4,C9652623,2,Field (mathematics),732231,Mathematics,Mathematics
+5,C105795698,1,Statistics,730919,Mathematics,Mathematics
+6,C134306372,1,Mathematical analysis,650845,Mathematics,Mathematics
+7,C38349280,2,Flow (mathematics),597729,Mathematics,"Mathematics,Physics"
+8,C158622935,2,Nonlinear system,591618,Mathematics,"Engineering,Mathematics,Physics"
+9,C61511704,2,Incidence (geometry),582770,Mathematics,"Mathematics,Physics"
+10,C110121322,2,Distribution (mathematics),552150,Mathematics,Mathematics
+11,C114614502,1,Combinatorics,496290,Mathematics,Mathematics
+12,C126255220,1,Mathematical optimization,470307,Mathematics,Mathematics
+13,C2776291640,2,Value (mathematics),469662,Mathematics,"Computer science,Mathematics"
+14,C90673727,2,Product (mathematics),446033,Mathematics,Mathematics
+15,C2776799497,2,Surface (topology),444557,Mathematics,Mathematics
+16,C2778755073,2,Scale (ratio),434802,Mathematics,"Geography,Physics"
+17,C104779481,2,Composite number,356972,Mathematics,"Computer science,Materials science,Mathematics"
+18,C115961682,2,Image (mathematics),332850,Mathematics,"Computer science,Mathematics"
+19,C136119220,2,Algebra over a field,330902,Mathematics,Mathematics
+20,C198352243,2,Line (geometry),294388,Mathematics,Mathematics
+21,C111335779,2,Reduction (mathematics),292870,Mathematics,Mathematics
+22,C2779463800,2,Center (category theory),273058,Mathematics,"Chemistry,Mathematics"
+23,C2780428219,2,Cover (algebra),267643,Mathematics,"Engineering,Mathematics"
+24,C156957248,2,Odds ratio,257613,Mathematics,"Mathematics,Medicine"
+25,C44249647,2,Confidence interval,239950,Mathematics,"Mathematics,Medicine"
+26,C2776542497,2,Development (topology),235200,Mathematics,Mathematics
+27,C61797465,2,Term (time),206768,Mathematics,Physics
+28,C96250715,2,Estimation,198831,Mathematics,"Economics,Engineering"
+29,C2776760102,3,Code (set theory),196618,Mathematics,Computer science
+30,C132525143,2,Graph,195234,Mathematics,"Computer science,Mathematics"
+31,C118615104,1,Discrete mathematics,187702,Mathematics,Mathematics
+32,C151956035,2,Logistic regression,187182,Mathematics,"Computer science,Mathematics,Medicine"
+33,C2524010,1,Geometry,175615,Mathematics,Mathematics
+34,C113174947,2,Tree (set theory),168094,Mathematics,Mathematics
+35,C185429906,2,Estimator,167707,Mathematics,Mathematics
+36,C100776233,2,Bridge (graph theory),166306,Mathematics,"Biology,Medicine"
+37,C90805587,2,Word (group theory),165630,Mathematics,"Mathematics,Philosophy"
+38,C16345878,2,Orientation (vector space),165102,Mathematics,Mathematics
+39,C77618280,2,Scheme (mathematics),162019,Mathematics,Mathematics
+40,C2777210771,2,Block (permutation group theory),150316,Mathematics,Mathematics
+41,C48753275,2,Numerical analysis,148796,Mathematics,Mathematics
+42,C117220453,2,Correlation,143714,Mathematics,Mathematics
+43,C122637931,2,Unit (ring theory),140494,Mathematics,Mathematics
+44,C162118730,1,Actuarial science,137895,Mathematics,"Business,Economics"
+45,C36503486,2,Domain (mathematical analysis),137285,Mathematics,Mathematics
+46,C50382708,2,Proportional hazards model,128505,Mathematics,"Mathematics,Medicine"
+47,C62354387,2,Boundary (topology),125911,Mathematics,Mathematics
+48,C74050887,2,Rotation (mathematics),122441,Mathematics,"Computer science,Mathematics"
+49,C2780897414,2,Star (game theory),119174,Mathematics,"Mathematics,Physics"
+50,C28719098,2,Point (geometry),116695,Mathematics,Mathematics
+51,C152877465,2,Regression analysis,110489,Mathematics,"Computer science,Mathematics"
+52,C137836250,2,Optimization problem,108539,Mathematics,"Computer science,Mathematics"
+53,C42058472,2,Base (topology),107117,Mathematics,Mathematics
+54,C98147612,3,Promotion (chess),102606,Mathematics,Political science
+55,C94375191,1,Arithmetic,96456,Mathematics,Mathematics
+56,C2778152352,2,Content (measure theory),94210,Mathematics,Mathematics
+57,C34388435,2,Bounded function,86124,Mathematics,Mathematics
+58,C158693339,2,Eigenvalues and eigenvectors,83922,Mathematics,"Mathematics,Physics"
+59,C182365436,2,Variable (mathematics),83791,Mathematics,Mathematics
+60,C156778621,2,Spectrum (functional analysis),83244,Mathematics,"Mathematics,Physics"
+61,C103278499,3,Similarity (geometry),83061,Mathematics,"Computer science,Mathematics"
+62,C19499675,2,Monte Carlo method,83017,Mathematics,Mathematics
+63,C33676613,2,Dimension (graph theory),81939,Mathematics,Mathematics
+64,C73000952,2,Discretization,81510,Mathematics,"Engineering,Mathematics"
+65,C107673813,2,Bayesian probability,80658,Mathematics,"Computer science,Mathematics"
+66,C182310444,2,Boundary value problem,79268,Mathematics,"Mathematics,Physics"
+67,C2779886137,2,Symmetry (geometry),78519,Mathematics,Mathematics
+68,C2780861071,2,Character (mathematics),76661,Mathematics,Mathematics
+69,C105341887,3,Suspension (topology),76116,Mathematics,Mathematics
+70,C80899671,3,Vertex (graph theory),75473,Mathematics,"Computer science,Mathematics"
+71,C151406439,2,Time series,74223,Mathematics,"Computer science,Mathematics"
+72,C48921125,2,Linear regression,73097,Mathematics,"Computer science,Mathematics"
+73,C165064840,2,Matching (statistics),70847,Mathematics,"Mathematics,Medicine"
+74,C83546350,2,Regression,70554,Mathematics,"Mathematics,Psychology"
+75,C60640748,3,Lyapunov function,70076,Mathematics,"Engineering,Mathematics,Physics"
+76,C74193536,2,Kernel (algebra),69187,Mathematics,Mathematics
+77,C128489963,2,Filtration (mathematics),69078,Mathematics,Mathematics
+78,C10515644,2,Survival analysis,68249,Mathematics,"Mathematics,Medicine"
+79,C42011625,3,Fuzzy set,67551,Mathematics,"Computer science,Philosophy"
+80,C176217482,2,Metric (unit),67358,Mathematics,"Business,Economics,Engineering"
+81,C78045399,2,Differential equation,65374,Mathematics,"Mathematics,Physics"
+82,C91575142,2,Optimal control,63553,Mathematics,"Engineering,Mathematics"
+83,C60798267,2,Division (mathematics),63118,Mathematics,Mathematics
+84,C49937458,2,Probabilistic logic,63004,Mathematics,"Computer science,Mathematics,Philosophy"
+85,C184670325,2,Loop (graph theory),62990,Mathematics,Mathematics
+86,C203311528,2,Cylinder,62930,Mathematics,"Engineering,Mathematics"
+87,C99844830,2,Scaling,62278,Mathematics,Mathematics
+88,C2777052490,2,Chaotic,61644,Mathematics,"Computer science,Economics"
+89,C207467116,2,Inverse,61469,Mathematics,"Mathematics,Philosophy"
+90,C2778067643,2,Interval (graph theory),61203,Mathematics,Mathematics
+91,C2778029271,2,Extension (predicate logic),60760,Mathematics,"Computer science,Mathematics"
+92,C117251300,2,Parametric statistics,60690,Mathematics,Mathematics
+93,C13355873,2,Connection (principal bundle),60591,Mathematics,"Engineering,Mathematics"
+94,C6802819,2,Linear system,60081,Mathematics,"Engineering,Mathematics"
+95,C2778753846,2,Link (geometry),60076,Mathematics,"Computer science,Mathematics"
+96,C160234255,3,Bayesian inference,59370,Mathematics,"Computer science,Mathematics"
+97,C164226766,2,Rank (graph theory),57152,Mathematics,Mathematics
+98,C46286280,4,Discrete wavelet transform,57083,Mathematics,Computer science
+99,C2781089630,2,Realization (probability),56595,Mathematics,Mathematics
+100,C17825722,2,Plane (geometry),55440,Mathematics,Mathematics
+101,C6350597,2,Altitude (triangle),55098,Mathematics,Mathematics
+102,C151201525,2,Limit (mathematics),54620,Mathematics,Mathematics
+103,C98763669,2,Markov chain,54244,Mathematics,"Computer science,Mathematics"
+104,C2781009140,2,Persistence (discontinuity),54052,Mathematics,"Engineering,Geology"
+105,C135252773,2,Inverse problem,53884,Mathematics,Mathematics
+106,C10349863,3,Linear range,53813,Mathematics,"Chemistry,Mathematics"
+107,C196216189,3,Wavelet transform,53715,Mathematics,Computer science
+108,C112680207,2,Regular polygon,53648,Mathematics,Mathematics
+109,C129848803,2,Sample size determination,53097,Mathematics,Mathematics
+110,C87007009,2,Statistical hypothesis testing,52739,Mathematics,Mathematics
+111,C57869625,3,Rate of convergence,52291,Mathematics,Computer science
+112,C8272713,2,Stochastic process,52250,Mathematics,Mathematics
+113,C2780030769,2,Plateau (mathematics),51949,Mathematics,Mathematics
+114,C155512373,2,Residual,51672,Mathematics,"Computer science,Mathematics"
+115,C35651441,2,Independence (probability theory),51276,Mathematics,Mathematics
+116,C2776061190,2,Separation (statistics),51067,Mathematics,"Computer science,Mathematics"
+117,C102519508,2,Fourier transform,50475,Mathematics,"Mathematics,Physics"
+118,C119043178,2,Covariate,50131,Mathematics,"Computer science,Economics,Mathematics"
+119,C47432892,2,Wavelet,49921,Mathematics,Computer science
+120,C122041747,2,Ball (mathematics),49825,Mathematics,Mathematics
+121,C83415579,2,Arc (geometry),49303,Mathematics,"Engineering,Mathematics"
+122,C161584116,2,Multivariate statistics,48969,Mathematics,"Computer science,Mathematics"
+123,C197336794,2,Conjugate,46653,Mathematics,Mathematics
+124,C93779851,2,Partial differential equation,46398,Mathematics,"Mathematics,Physics"
+125,C163716315,2,Gaussian,46391,Mathematics,"Chemistry,Physics"
+126,C90119067,2,Polynomial,46190,Mathematics,Mathematics
+127,C98184364,2,Argument (complex analysis),45993,Mathematics,"Biology,Chemistry,Medicine"
+128,C27438332,2,Principal component analysis,45865,Mathematics,"Computer science,Mathematics"
+129,C135692309,2,Square (algebra),43225,Mathematics,Mathematics
+130,C104709138,3,Intraclass correlation,43218,Mathematics,"Mathematics,Psychology"
+131,C144938864,2,Randomized block design,42942,Mathematics,"Biology,Mathematics"
+132,C153083717,2,Leverage (statistics),42330,Mathematics,"Computer science,Mathematics"
+133,C155777637,4,Wavelet packet decomposition,41865,Mathematics,Computer science
+134,C134786449,2,Planar,41016,Mathematics,Computer science
+135,C41045048,2,Linear programming,40862,Mathematics,"Computer science,Mathematics"
+136,C38180746,2,Multivariate analysis,40504,Mathematics,"Computer science,Mathematics,Medicine"
+137,C68781425,2,Multi-objective optimization,40084,Mathematics,"Computer science,Mathematics"
+138,C139676723,2,Sign (mathematics),39878,Mathematics,Mathematics
+139,C195065555,2,Curvature,39493,Mathematics,Mathematics
+140,C9376300,2,Algebraic number,38946,Mathematics,Mathematics
+141,C2780990831,2,Conjecture,38904,Mathematics,Mathematics
+142,C12590798,2,Replication (statistics),38890,Mathematics,"Biology,Mathematics,Medicine"
+143,C155281189,2,Tensor (intrinsic definition),38795,Mathematics,Mathematics
+144,C150077022,2,Response surface methodology,38576,Mathematics,"Chemistry,Computer science,Mathematics"
+145,C167928553,2,Estimation theory,37551,Mathematics,"Computer science,Mathematics"
+146,C9930424,2,Saturation (graph theory),37522,Mathematics,Mathematics
+147,C167964875,3,Exponential stability,37516,Mathematics,"Engineering,Mathematics,Physics"
+148,C198819137,3,Octahedron,37109,Mathematics,"Chemistry,Physics"
+149,C79379906,2,Dynamical systems theory,36732,Mathematics,"Engineering,Mathematics,Physics"
+150,C131770355,2,Harmonic analysis,36097,Mathematics,"Engineering,Mathematics"
+151,C159886148,2,Markov process,35929,Mathematics,Mathematics
+152,C102366305,2,Nonparametric statistics,35027,Mathematics,"Economics,Mathematics"
+153,C39896193,2,Descriptive statistics,34988,Mathematics,Mathematics
+154,C197957613,3,Cofactor,34230,Mathematics,"Biology,Chemistry,Physics"
+155,C64452783,2,Ternary operation,33773,Mathematics,"Computer science,Mathematics"
+156,C77553402,2,Upper and lower bounds,33768,Mathematics,Mathematics
+157,C177769412,3,Prior probability,32515,Mathematics,"Computer science,Mathematics"
+158,C37649242,2,System of measurement,32387,Mathematics,Physics
+159,C2779696439,2,Signature (topology),30882,Mathematics,Mathematics
+160,C199068039,2,Immersion (mathematics),30563,Mathematics,Mathematics
+161,C34947359,2,Complex network,30187,Mathematics,"Computer science,Mathematics"
+162,C1883856,4,Fuzzy number,29622,Mathematics,"Computer science,Philosophy"
+163,C38976095,2,Asymmetry,29578,Mathematics,Physics
+164,C2781349735,3,Bifurcation,29071,Mathematics,"Engineering,Mathematics,Physics"
+165,C122123141,2,Random variable,28821,Mathematics,Mathematics
+166,C129844170,2,Quadratic equation,28715,Mathematics,Mathematics
+167,C96469262,2,Homogeneous space,28564,Mathematics,Mathematics
+168,C151376022,2,Exponential function,28437,Mathematics,Mathematics
+169,C26546657,3,Fractal dimension,28156,Mathematics,Mathematics
+170,C2778312390,2,Growth rate,28080,Mathematics,Mathematics
+171,C40636538,2,Fractal,28072,Mathematics,Mathematics
+172,C9936470,3,Least-squares function approximation,28018,Mathematics,Undefined
+173,C57691317,2,Scalar (mathematics),27875,Mathematics,Mathematics
+174,C55689738,2,Discrete time and continuous time,27461,Mathematics,"Engineering,Mathematics"
+175,C2778023678,2,Duality (order theory),27363,Mathematics,Mathematics
+176,C197115733,2,Forcing (mathematics),27323,Mathematics,"Geology,Mathematics,Physics"
+177,C124066611,2,Sparse approximation,27275,Mathematics,"Computer science,Mathematics"
+178,C159877910,2,Autoregressive model,26740,Mathematics,"Economics,Mathematics"
+179,C12426560,2,Basis (linear algebra),26733,Mathematics,Mathematics
+180,C124851039,2,Compressed sensing,26639,Mathematics,"Computer science,Mathematics"
+181,C193867417,2,Modulus,26539,Mathematics,"Materials science,Mathematics"
+182,C22684755,2,Queueing theory,26523,Mathematics,"Computer science,Mathematics"
+183,C134400042,2,Symbol (formal),26488,Mathematics,"Computer science,Philosophy"
+184,C51544822,3,Ordinary differential equation,26428,Mathematics,"Mathematics,Physics"
+185,C65778772,3,Asymptotic distribution,26243,Mathematics,Mathematics
+186,C46254838,2,Completely randomized design,25802,Mathematics,"Biology,Mathematics"
+187,C159694833,2,Iterative method,25731,Mathematics,"Computer science,Mathematics"
+188,C144745244,2,Blocking (statistics),25343,Mathematics,"Computer science,Mathematics"
+189,C22354355,2,Partial least squares regression,24986,Mathematics,"Chemistry,Computer science,Mathematics"
+190,C27574286,2,Variables,24858,Mathematics,"Computer science,Mathematics"
+191,C14166107,2,Net (polyhedron),24709,Mathematics,Mathematics
+192,C154249771,2,Fractional calculus,24677,Mathematics,"Mathematics,Physics"
+193,C177803969,2,Uncertainty analysis,24430,Mathematics,"Computer science,Engineering,Mathematics"
+194,C24338571,3,Autoregressive integrated moving average,24334,Mathematics,"Computer science,Mathematics"
+195,C132954091,2,Banach space,24010,Mathematics,Mathematics
+196,C42812,2,Partition (number theory),23892,Mathematics,Mathematics
+197,C51955184,2,Stochastic differential equation,23862,Mathematics,"Mathematics,Physics"
+198,C51568863,2,Lie algebra,23833,Mathematics,"Mathematics,Physics"
+199,C22171661,2,Stochastic game,23623,Mathematics,"Economics,Mathematics"
+200,C4199805,2,Gaussian noise,23458,Mathematics,"Computer science,Mathematics"
+201,C57830394,3,Posterior probability,23347,Mathematics,"Computer science,Mathematics"
+202,C66882249,2,Homogeneous,23156,Mathematics,"Mathematics,Physics"
+203,C76318530,2,Area under the curve,22966,Mathematics,"Biology,Medicine"
+204,C111350023,3,Markov chain Monte Carlo,22883,Mathematics,"Computer science,Mathematics"
+205,C61445026,2,Fixed point,22866,Mathematics,Mathematics
+206,C207201462,3,Bayes' theorem,22810,Mathematics,"Computer science,Mathematics"
+207,C100906024,2,Poisson distribution,22589,Mathematics,Mathematics
+208,C137270730,3,Detection theory,22513,Mathematics,"Computer science,Engineering"
+209,C61326573,3,Gaussian process,22435,Mathematics,"Chemistry,Physics"
+210,C149441793,2,Probability distribution,22419,Mathematics,Mathematics
+211,C69738355,2,Linear discriminant analysis,22091,Mathematics,"Computer science,Mathematics"
+212,C190812933,2,Chart,22053,Mathematics,Mathematics
+213,C145446738,3,Convex function,21999,Mathematics,Mathematics
+214,C75172450,2,Fast Fourier transform,21984,Mathematics,"Computer science,Mathematics"
+215,C2221639,3,Discrete cosine transform,21969,Mathematics,"Computer science,Mathematics"
+216,C139945424,2,Mean squared error,21798,Mathematics,Mathematics
+217,C13982400,3,Linear differential equation,21782,Mathematics,"Engineering,Mathematics,Physics"
+218,C32230216,2,Uncertainty quantification,21720,Mathematics,"Computer science,Mathematics"
+219,C14103023,3,Pairing,21627,Mathematics,Physics
+220,C19619285,2,Observational error,21612,Mathematics,"Economics,Mathematics"
+221,C121194460,2,Random walk,21488,Mathematics,Mathematics
+222,C7218915,3,Gaussian function,21449,Mathematics,"Chemistry,Physics"
+223,C81692654,2,Kriging,21305,Mathematics,"Computer science,Mathematics"
+224,C191544260,3,Lyapunov exponent,21276,Mathematics,"Computer science,Economics,Engineering,Mathematics,Physics"
+225,C10628310,2,Orthogonal polynomials,21214,Mathematics,Mathematics
+226,C114289077,2,Statistical model,21112,Mathematics,"Computer science,Mathematics"
+227,C2987642246,2,First order,21096,Mathematics,Mathematics
+228,C85031952,3,Normality test,21024,Mathematics,"Mathematics,Medicine,Political science,Sociology"
+229,C200741047,2,Integrable system,20910,Mathematics,"Mathematics,Physics"
+230,C184992742,2,Prime (order theory),20730,Mathematics,Mathematics
+231,C45962547,2,Fixed-point theorem,20661,Mathematics,Mathematics
+232,C109792285,2,Millimeter,20649,Mathematics,Physics
+233,C42355184,3,Matrix decomposition,20547,Mathematics,"Mathematics,Physics"
+234,C202799725,2,Accuracy and precision,20534,Mathematics,"Mathematics,Physics"
+235,C108710211,2,Mathematical proof,20484,Mathematics,Mathematics
+236,C98214594,2,Conformal map,20358,Mathematics,Mathematics
+237,C144301174,3,Univariate analysis,20264,Mathematics,"Computer science,Mathematics,Medicine"
+238,C205203396,2,Bilinear interpolation,20197,Mathematics,"Computer science,Mathematics"
+239,C196298200,2,Critical point (mathematics),20164,Mathematics,Mathematics
+240,C148671577,4,Fuzzy set operations,20045,Mathematics,"Computer science,Engineering,Mathematics,Philosophy"
+241,C127491075,2,Stochastic modelling,19227,Mathematics,"Business,Economics,Mathematics"
+242,C9679016,2,Principle of maximum entropy,19217,Mathematics,"Computer science,Mathematics"
+243,C164380108,2,Attractor,18918,Mathematics,"Engineering,Mathematics"
+244,C179603306,2,Elliptic curve,18559,Mathematics,Mathematics
+245,C157972887,3,Convex optimization,18552,Mathematics,Mathematics
+246,C101112237,4,Bayesian statistics,18479,Mathematics,"Computer science,Mathematics"
+247,C163836022,3,Markov model,18457,Mathematics,"Computer science,Mathematics"
+248,C43929395,2,Operator theory,18356,Mathematics,Mathematics
+249,C92571104,3,Singular integral,18270,Mathematics,Mathematics
+250,C121332964,0,Physics,5470315,Physics,Physics
+251,C57879066,1,Mechanics,1376608,Physics,Physics
+252,C18762648,2,Work (physics),1063474,Physics,"Engineering,Physics"
+253,C120665830,1,Optics,1022784,Physics,Physics
+254,C163258240,2,Power (physics),984277,Physics,Physics
+255,C24890656,1,Acoustics,831253,Physics,Physics
+256,C26873012,1,Condensed matter physics,753112,Physics,Physics
+257,C8010536,1,Crystallography,598980,Physics,Chemistry
+258,C20556612,2,Volume (thermodynamics),571443,Physics,Physics
+259,C44280652,2,Phase (matter),545906,Physics,"Chemistry,Physics"
+260,C184779094,1,Atomic physics,541914,Physics,Physics
+261,C165801399,2,Voltage,507687,Physics,"Engineering,Physics"
+262,C121864883,1,Statistical physics,442746,Physics,Physics
+263,C37914503,1,Mathematical physics,426983,Physics,"Mathematics,Physics"
+264,C520434653,2,Laser,423639,Physics,Physics
+265,C41999313,1,Molecular physics,403069,Physics,"Chemistry,Physics"
+266,C97355855,1,Thermodynamics,400776,Physics,Physics
+267,C147120987,2,Electron,373793,Physics,Physics
+268,C148043351,2,Current (fluid),372652,Physics,"Engineering,Geology,Physics"
+269,C4839761,2,Spectral line,370460,Physics,Physics
+270,C44870925,1,Astrophysics,362160,Physics,Physics
+271,C115260700,2,Magnetic field,347991,Physics,Physics
+272,C204530211,2,Thermal,341071,Physics,"Geography,Physics"
+273,C159467904,1,Chemical physics,337095,Physics,"Chemistry,Physics"
+274,C2780791683,2,Action (physics),331777,Physics,Physics
+275,C19527891,1,Medical physics,330945,Physics,"Medicine,Physics"
+276,C1276947,1,Astronomy,321114,Physics,Physics
+277,C82706917,2,Plasma,302297,Physics,Physics
+278,C84114770,2,Quantum,299955,Physics,Physics
+279,C33332235,1,Theoretical physics,294307,Physics,Physics
+280,C125287762,2,Absorption (acoustics),292103,Physics,"Materials science,Physics"
+281,C69357855,2,Diffusion,283878,Physics,Physics
+282,C30475298,1,Computational physics,281005,Physics,Physics
+283,C185544564,1,Nuclear physics,262696,Physics,Physics
+284,C198394728,2,Vibration,253677,Physics,Physics
+285,C153385146,2,Radiation,239413,Physics,Physics
+286,C152365726,2,Density functional theory,237488,Physics,"Chemistry,Physics"
+287,C32891209,2,Spectroscopy,232883,Physics,Physics
+288,C62520636,1,Quantum mechanics,215440,Physics,Physics
+289,C74650414,1,Classical mechanics,213467,Physics,Physics
+290,C32546565,3,Magnetization,210064,Physics,Physics
+291,C65440619,2,Atmosphere (unit),209408,Physics,"Geography,Physics"
+292,C104114177,2,Motion (physics),205785,Physics,"Computer science,Physics"
+293,C191486275,2,Scattering,193972,Physics,Physics
+294,C50517652,2,Heat transfer,193840,Physics,Physics
+295,C94915269,2,Detector,192768,Physics,"Computer science,Engineering,Physics"
+296,C150846664,2,Stars,192626,Physics,"Computer science,Physics"
+297,C111337013,2,Irradiation,192383,Physics,Physics
+298,C40003534,2,Raman spectroscopy,190013,Physics,"Chemistry,Physics"
+299,C148898269,2,Kinetics,187600,Physics,Physics
+300,C91881484,2,Fluorescence,182913,Physics,Physics
+301,C133386390,2,Dielectric,182828,Physics,"Engineering,Materials science,Physics"
+302,C85080765,2,Photoluminescence,180593,Physics,"Chemistry,Materials science,Physics"
+303,C149288129,2,Phase transition,180295,Physics,Physics
+304,C196558001,2,Turbulence,178797,Physics,"Geography,Physics"
+305,C175708663,2,X-ray photoelectron spectroscopy,170521,Physics,"Chemistry,Engineering,Physics"
+306,C2779328170,2,X-ray,169572,Physics,Physics
+307,C139210041,2,Resonance (particle physics),166168,Physics,Physics
+308,C109214941,1,Particle physics,161687,Physics,Physics
+309,C181966813,2,Band gap,161620,Physics,"Materials science,Physics"
+310,C158355884,2,Infrared,160951,Physics,Physics
+311,C82217956,2,Ferromagnetism,160012,Physics,Physics
+312,C46141821,1,Nuclear magnetic resonance,158685,Physics,Physics
+313,C98444146,2,Galaxy,155278,Physics,Physics
+314,C60799052,2,Electric field,151431,Physics,Physics
+315,C2777977315,2,Primary (astronomy),148923,Physics,Physics
+316,C2778334786,2,Variation (astronomy),147309,Physics,Physics
+317,C200941418,2,Inflation (cosmology),144205,Physics,Physics
+318,C206658404,2,Electricity,143088,Physics,"Engineering,Physics"
+319,C97346530,2,Thermal conductivity,142755,Physics,"Materials science,Physics"
+320,C59593255,2,Molecular dynamics,140897,Physics,"Chemistry,Physics"
+321,C6260449,2,Wavelength,139465,Physics,"Materials science,Physics"
+322,C192209626,2,Focus (optics),138209,Physics,Physics
+323,C3079626,1,Quantum electrodynamics,135129,Physics,Physics
+324,C69990965,2,Electrical resistivity and conductivity,134326,Physics,"Engineering,Physics"
+325,C2779662365,2,Event (particle physics),131022,Physics,Physics
+326,C181500209,2,Excited state,129029,Physics,Physics
+327,C152568617,2,Neutron,125895,Physics,Physics
+328,C8058405,1,Geophysics,125888,Physics,"Geology,Physics"
+329,C83581075,2,Excitation,121078,Physics,"Engineering,Physics"
+330,C62611344,2,Node (physics),119997,Physics,"Engineering,Physics"
+331,C159317903,2,Photon,117725,Physics,Physics
+332,C44838205,2,Microwave,117621,Physics,"Computer science,Engineering,Physics"
+333,C85725439,2,Anisotropy,117600,Physics,Physics
+334,C148869448,2,Luminescence,117402,Physics,"Chemistry,Materials science,Physics"
+335,C177562468,2,Dispersion (optics),116984,Physics,Physics
+336,C207114421,2,Diffraction,115744,Physics,Physics
+337,C147080431,2,Microscopy,115460,Physics,"Medicine,Physics"
+338,C39920418,2,Kinematics,115326,Physics,Physics
+339,C54101563,2,Superconductivity,114969,Physics,Physics
+340,C131540310,2,Conductivity,114313,Physics,"Chemistry,Physics"
+341,C49110097,2,Cathode,112086,Physics,"Chemistry,Engineering"
+342,C79794668,2,Heterojunction,111107,Physics,"Materials science,Physics"
+343,C182748727,3,Reynolds number,109559,Physics,"Geography,Physics"
+344,C51244244,2,Planet,108098,Physics,Physics
+345,C188082385,2,Charge (physics),107923,Physics,Physics
+346,C120882062,3,Permeability (electromagnetism),106699,Physics,"Biology,Chemistry"
+347,C20788544,2,Photonics,103449,Physics,"Materials science,Physics"
+348,C16389437,2,Magnet,103095,Physics,"Engineering,Physics"
+349,C207821765,2,Instability,101085,Physics,"Engineering,Mathematics,Physics"
+350,C168167062,2,Component (thermodynamics),100998,Physics,Physics
+351,C144171764,2,Torque,99977,Physics,"Engineering,Mathematics,Physics"
+352,C180205008,2,Amplitude,98318,Physics,Physics
+353,C161067210,2,Wind speed,97790,Physics,"Geography,Geology,Physics"
+354,C7040849,4,Dielectric spectroscopy,96785,Physics,"Chemistry,Physics"
+355,C187530423,2,Particle size,96650,Physics,"Biology,Chemistry,Engineering,Geology"
+356,C135889238,2,Kinetic energy,96204,Physics,Physics
+357,C119947313,2,Jet (fluid),96171,Physics,"Engineering,Physics"
+358,C10899652,2,Convection,95807,Physics,"Geography,Physics"
+359,C13393347,2,Aerodynamics,95067,Physics,"Engineering,Physics"
+360,C13662910,2,Trajectory,93413,Physics,"Engineering,Mathematics,Physics"
+361,C180016635,2,Compression (physics),91274,Physics,"Materials science,Physics"
+362,C127934551,2,Harmonic,91091,Physics,Physics
+363,C127172972,2,Viscosity,90458,Physics,"Materials science,Physics"
+364,C106301342,2,Entropy (arrow of time),90280,Physics,Physics
+365,C196644772,2,Orbit (dynamics),88970,Physics,"Engineering,Mathematics"
+366,C124017977,2,Gravitation,87626,Physics,Physics
+367,C30066665,3,Capacitance,87133,Physics,"Chemistry,Physics"
+368,C87668248,2,Large Hadron Collider,86507,Physics,Physics
+369,C119824511,2,Absorption spectroscopy,84579,Physics,"Chemistry,Physics"
+370,C86025842,2,Electronic structure,84253,Physics,"Chemistry,Physics"
+371,C24169881,2,Phonon,83927,Physics,Physics
+372,C85906118,3,Phase diagram,83331,Physics,"Chemistry,Physics"
+373,C61048295,2,Nucleation,83187,Physics,"Chemistry,Physics"
+374,C96141758,3,Emission spectrum,82721,Physics,Physics
+375,C2781195486,3,Texture (cosmology),82547,Physics,"Computer science,Mathematics"
+376,C2781442258,2,Ab initio,81545,Physics,"Chemistry,Physics"
+377,C93038891,2,Intensity (physics),79919,Physics,Physics
+378,C190470478,2,Invariant (physics),78373,Physics,"Mathematics,Physics"
+379,C138777275,2,Mixing (physics),78124,Physics,"Engineering,Mathematics,Physics"
+380,C54516573,2,Proton,78116,Physics,Physics
+381,C2780824857,2,Solar cell,77654,Physics,"Engineering,Materials science,Physics"
+382,C158525013,2,Fusion,76394,Physics,Philosophy
+383,C6556556,2,Contact angle,76021,Physics,"Engineering,Materials science,Physics"
+384,C202374169,2,Electrical conductor,75655,Physics,"Engineering,Materials science,Physics"
+385,C42067758,2,Refractive index,75546,Physics,"Materials science,Physics"
+386,C111603439,2,Boundary layer,74588,Physics,"Engineering,Physics"
+387,C11111821,2,Circulation (fluid dynamics),72685,Physics,"Engineering,Physics"
+388,C140820882,2,Vortex,71457,Physics,"Geography,Physics"
+389,C155355069,2,Antiferromagnetism,71289,Physics,Physics
+390,C74064498,2,Radio frequency,70715,Physics,"Computer science,Engineering"
+391,C33024259,3,Redshift,69982,Physics,Physics
+392,C84999194,2,Universe,69516,Physics,Physics
+393,C17829176,2,Electrical impedance,69446,Physics,"Engineering,Physics"
+394,C79090758,3,Ferroelectricity,69175,Physics,"Engineering,Materials science,Physics"
+395,C28843909,2,Electromagnetic field,68845,Physics,Physics
+396,C142757262,2,Doppler effect,68199,Physics,Physics
+397,C169573571,3,Raman scattering,67837,Physics,"Chemistry,Physics"
+398,C124657808,2,Quantum dot,67482,Physics,"Materials science,Physics"
+399,C67649825,2,Microscope,66469,Physics,"Medicine,Physics"
+400,C68271606,3,Photometry (optics),65217,Physics,"Computer science,Physics"
+401,C19694890,2,Hadron,64837,Physics,Physics
+402,C204723758,2,Acoustic wave,64737,Physics,Physics
+403,C101454708,3,Standard Model (mathematical formulation),64249,Physics,"Geography,History,Materials science"
+404,C84174578,2,Surface wave,63598,Physics,"Computer science,Engineering,Physics"
+405,C159188206,3,Heat flux,63490,Physics,Physics
+406,C68115822,2,Sound pressure,63439,Physics,"Computer science,Engineering,Physics"
+407,C54553102,2,Magnetic moment,63122,Physics,Physics
+408,C100082104,2,Piezoelectricity,63000,Physics,"Engineering,Materials science,Physics"
+409,C179254644,2,Moment (physics),62834,Physics,Physics
+410,C44886760,2,Wave propagation,62386,Physics,Physics
+411,C121854251,2,Elasticity (physics),62155,Physics,"Materials science,Physics"
+412,C168651791,3,Permittivity,61728,Physics,"Engineering,Materials science,Physics"
+413,C76563973,2,Laminar flow,59986,Physics,"Engineering,Physics"
+414,C166689943,2,Interferometry,59213,Physics,Physics
+415,C117137515,2,Quantum chromodynamics,58785,Physics,Physics
+416,C69523127,2,Ground state,58326,Physics,Physics
+417,C146088050,2,Transmission electron microscopy,58313,Physics,"Engineering,Materials science,Physics"
+418,C188721877,2,Bar (unit),58141,Physics,"Geography,Geology,Physics"
+419,C117896860,2,Acceleration,57742,Physics,Physics
+420,C104663316,2,Visible spectrum,57252,Physics,"Materials science,Physics"
+421,C130187892,2,Spacetime,56990,Physics,Physics
+422,C78854221,3,Nonlinear optics,56390,Physics,"Engineering,Mathematics,Physics"
+423,C108411613,3,Solar wind,56299,Physics,Physics
+424,C32938098,4,Magnetic anisotropy,56242,Physics,Physics
+425,C70477161,2,Shock wave,55906,Physics,"Engineering,Physics"
+426,C107814960,2,Solid-state,55565,Physics,"Chemistry,Engineering,Physics"
+427,C158973077,2,Radionuclide,54657,Physics,Physics
+428,C178596936,3,Ultrashort pulse,54554,Physics,Physics
+429,C110879396,2,Plasmon,54469,Physics,"Materials science,Physics"
+430,C7602139,2,Quark,54335,Physics,Physics
+431,C18231593,3,Ionizing radiation,54258,Physics,Physics
+432,C52234038,2,Cross section (physics),54147,Physics,Physics
+433,C196806460,2,Capillary action,53978,Physics,"Geography,Materials science,Physics"
+434,C7910260,2,Gamma ray,53615,Physics,Physics
+435,C147452769,2,General relativity,53515,Physics,"Mathematics,Physics"
+436,C188414643,3,Harmonics,53507,Physics,"Engineering,Physics"
+437,C1924353,3,Elastic scattering,52905,Physics,Physics
+438,C116403925,2,Ionosphere,52730,Physics,"Geology,Physics"
+439,C2776798109,2,Ultraviolet,52715,Physics,"Materials science,Physics"
+440,C134514944,2,Wetting,52525,Physics,"Engineering,Materials science,Physics"
+441,C520301825,2,Energy conservation,52144,Physics,"Biology,Engineering"
+442,C2984729377,2,High pressure,52031,Physics,"Engineering,Physics"
+443,C172100665,2,Thermal conduction,51962,Physics,"Materials science,Physics"
+444,C12287442,3,Luminosity,51841,Physics,Physics
+445,C125857072,3,Star formation,51695,Physics,"Computer science,Physics"
+446,C121704057,2,Collision,51380,Physics,Computer science
+447,C17729963,2,Exciton,51377,Physics,Physics
+448,C106847996,3,Surface plasmon resonance,51166,Physics,"Engineering,Materials science,Physics"
+449,C74902906,2,Radiative transfer,51122,Physics,Physics
+450,C200006409,2,Meson,50711,Physics,Physics
+451,C87210426,2,Bending,50597,Physics,"Engineering,Materials science,Physics"
+452,C27251351,3,Neutron temperature,49517,Physics,Physics
+453,C126530901,2,Coercivity,49457,Physics,"Chemistry,Physics"
+454,C120398109,2,Quantum tunnelling,49351,Physics,"Materials science,Physics"
+455,C157486923,2,String (physics),48979,Physics,"Mathematics,Physics"
+456,C84655787,2,Compressibility,48861,Physics,"Engineering,Physics"
+457,C130726490,2,Light curve,48827,Physics,Physics
+458,C2780704645,2,Observer (physics),48799,Physics,Physics
+459,C63648874,3,Curie temperature,48379,Physics,Physics
+460,C26405456,2,Cosmology,48186,Physics,Physics
+461,C48939323,2,Wake,48103,Physics,"Engineering,Physics"
+462,C31532427,3,Magnetohydrodynamics,48037,Physics,Physics
+463,C116515362,3,Tokamak,47812,Physics,Physics
+464,C187961010,2,Electron paramagnetic resonance,47560,Physics,Physics
+465,C97126364,2,Resonator,47319,Physics,"Engineering,Materials science,Physics"
+466,C95312477,3,Cathode ray,47241,Physics,Physics
+467,C207999682,3,Spintronics,47006,Physics,Physics
+468,C58053490,3,Quantum computer,46563,Physics,Physics
+469,C2780848835,2,Telescope,46454,Physics,Physics
+470,C90278072,2,Fluid dynamics,46151,Physics,Physics
+471,C15476950,3,Turbulence kinetic energy,45984,Physics,"Geography,Physics,Psychology"
+472,C109613756,3,High-temperature superconductivity,45919,Physics,Physics
+473,C184748400,2,Physics beyond the Standard Model,45555,Physics,Physics
+474,C72293138,2,Temperature measurement,44658,Physics,Physics
+475,C167735695,3,Femtosecond,44497,Physics,Physics
+476,C206191943,2,Nuclear reaction,44449,Physics,Physics
+477,C17163034,3,Fiber laser,43646,Physics,"Chemistry,Computer science,Engineering,Materials science,Physics"
+478,C45206210,2,Nanoscopic scale,43644,Physics,"Materials science,Physics"
+479,C121477167,3,Semiconductor laser theory,43611,Physics,"Engineering,Materials science,Physics"
+480,C96402334,2,Space time,43465,Physics,"Chemistry,Engineering"
+481,C124712363,2,Paramagnetism,42968,Physics,Physics
+482,C22175881,3,Electron temperature,42746,Physics,"Chemistry,Physics"
+483,C206094082,2,Pion,42576,Physics,Physics
+484,C75302062,2,Photonic crystal,42556,Physics,"Materials science,Physics"
+485,C120456961,3,Light scattering,42422,Physics,Physics
+486,C172695262,2,Nucleon,41893,Physics,Physics
+487,C58142911,2,Asteroid,41679,Physics,"Biology,Physics"
+488,C19118579,2,Frequency domain,41220,Physics,"Computer science,Mathematics"
+489,C125469278,2,Electronic band structure,40747,Physics,Physics
+490,C8892853,2,Surface tension,40519,Physics,Physics
+491,C539450922,2,Solar System,40221,Physics,"Biology,Physics"
+492,C40637687,3,Lasing threshold,40065,Physics,"Materials science,Physics"
+493,C50515024,3,X-ray crystallography,39854,Physics,Physics
+494,C137693562,3,Thermal resistance,39691,Physics,"Geography,Physics"
+495,C2777704519,2,MAGIC (telescope),39507,Physics,Physics
+496,C79118098,2,Boson,39117,Physics,Physics
+497,C173523689,2,Dipole,38906,Physics,"Chemistry,Physics"
+498,C190330329,2,Gravitational wave,38658,Physics,Physics
+499,C2985973956,2,High energy,38606,Physics,"Engineering,Physics"
+500,C41008148,0,Computer science,23847008,Computer science,Computer science
+501,C154945302,1,Artificial intelligence,2362936,Computer science,Computer science
+502,C11413529,1,Algorithm,1419419,Computer science,"Computer science,Mathematics"
+503,C136764020,1,World Wide Web,1341480,Computer science,Computer science
+504,C98045186,2,Process (computing),1221346,Computer science,Computer science
+505,C48103436,2,State (computer science),969984,Computer science,"Computer science,Mathematics"
+506,C70721500,1,Computational biology,926306,Computer science,Biology
+507,C31972630,1,Computer vision,704262,Computer science,Computer science
+508,C49774154,1,Multimedia,551150,Computer science,Computer science
+509,C119857082,1,Machine learning,532237,Computer science,Computer science
+510,C2522767166,1,Data science,501315,Computer science,Computer science
+511,C23123220,1,Information retrieval,499632,Computer science,Computer science
+512,C2778572836,2,Space (punctuation),480887,Computer science,"Computer science,Philosophy"
+513,C2777904410,2,Software,480844,Computer science,Computer science
+514,C107457646,1,Human–computer interaction,456983,Computer science,Computer science
+515,C2779843651,2,SIGNAL (programming language),439485,Computer science,Computer science
+516,C99498987,3,Noise (video),438460,Computer science,"Computer science,Mathematics"
+517,C31258907,1,Computer network,401650,Computer science,Computer science
+518,C50644808,2,Artificial neural network,400061,Computer science,Computer science
+519,C112972136,2,Stability (learning theory),373823,Computer science,"Computer science,Engineering,Mathematics"
+520,C124101348,1,Data mining,363825,Computer science,Computer science
+521,C120314980,1,Distributed computing,335783,Computer science,Computer science
+522,C204321447,1,Natural language processing,332859,Computer science,Computer science
+523,C110875604,2,The Internet,327641,Computer science,Computer science
+524,C38652104,1,Computer security,321705,Computer science,Computer science
+525,C77088390,1,Database,304083,Computer science,Computer science
+526,C2781285689,2,Crystal (programming language),291537,Computer science,Computer science
+527,C108583219,2,Deep learning,287719,Computer science,Computer science
+528,C79403827,1,Real-time computing,281481,Computer science,Computer science
+529,C9390403,1,Computer hardware,271804,Computer science,Computer science
+530,C45235069,2,Table (database),254504,Computer science,Computer science
+531,C199360897,1,Programming language,249983,Computer science,Computer science
+532,C81917197,2,Selection (genetic algorithm),244986,Computer science,Computer science
+533,C121684516,1,Computer graphics (images),238872,Computer science,Computer science
+534,C111919701,1,Operating system,236492,Computer science,Computer science
+535,C108827166,1,Internet privacy,233609,Computer science,Computer science
+536,C28490314,1,Speech recognition,213681,Computer science,Computer science
+537,C52622490,2,Feature extraction,204216,Computer science,Computer science
+538,C180198813,2,Information system,180558,Computer science,"Engineering,Political science"
+539,C2777855551,2,Subject (documents),178173,Computer science,Computer science
+540,C80444323,1,Theoretical computer science,174770,Computer science,Computer science
+541,C2780009758,2,Measure (data warehouse),172015,Computer science,Computer science
+542,C2776412080,2,Schizophrenia (object-oriented programming),170627,Computer science,"Computer science,Medicine,Psychology"
+543,C81363708,2,Convolutional neural network,169099,Computer science,Computer science
+544,C2775841894,2,Sleep (system call),166522,Computer science,Computer science
+545,C65682993,2,Reflection (computer programming),163294,Computer science,Computer science
+546,C21959979,2,Web page,156410,Computer science,Computer science
+547,C48677424,2,Mode (computer interface),152805,Computer science,Computer science
+548,C2779182362,2,Session (web analytics),152305,Computer science,"Business,Computer science"
+549,C133462117,2,Data collection,150023,Computer science,"Mathematics,Sociology"
+550,C118643609,2,Web application,147631,Computer science,Computer science
+551,C187691185,2,Grid,146550,Computer science,"Geography,Geology,Mathematics"
+552,C12267149,2,Support vector machine,144541,Computer science,Computer science
+553,C2780799671,2,Transient (computer programming),142236,Computer science,Computer science
+554,C173608175,1,Parallel computing,141505,Computer science,Computer science
+555,C79974875,2,Cloud computing,139805,Computer science,"Computer science,Political science"
+556,C58166,2,Fuzzy logic,138883,Computer science,"Computer science,Philosophy"
+557,C2776174256,2,BETA (programming language),132506,Computer science,Computer science
+558,C513874922,3,Digital library,132489,Computer science,"Art,Philosophy"
+559,C2777735758,2,Path (computing),126754,Computer science,Computer science
+560,C500300565,2,Computer simulation,124525,Computer science,"Computer science,Engineering,Mathematics,Physics"
+561,C75684735,2,Big data,124454,Computer science,Computer science
+562,C108037233,3,Wireless network,122254,Computer science,"Computer science,Engineering"
+563,C73555534,2,Cluster analysis,122236,Computer science,"Computer science,Mathematics"
+564,C194969405,2,Virtual reality,119844,Computer science,Computer science
+565,C45374587,2,Computation,116237,Computer science,"Computer science,Mathematics"
+566,C81860439,2,Internet of Things,116022,Computer science,"Computer science,Engineering"
+567,C95623464,2,Classifier (UML),114581,Computer science,Computer science
+568,C2777777548,2,Mercury (programming language),113980,Computer science,Computer science
+569,C177264268,2,Set (abstract data type),113024,Computer science,Computer science
+570,C24590314,2,Wireless sensor network,111780,Computer science,Computer science
+571,C2776257435,2,Bandwidth (computing),111658,Computer science,"Computer science,Engineering"
+572,C56296756,3,Bit error rate,111438,Computer science,"Computer science,Engineering,Mathematics"
+573,C58312451,2,Atom (system on chip),108268,Computer science,"Computer science,Engineering"
+574,C9417928,3,Image processing,105106,Computer science,"Computer science,Mathematics"
+575,C186967261,2,Mobile device,105077,Computer science,Computer science
+576,C60644358,1,Bioinformatics,104732,Computer science,Biology
+577,C529173508,3,Software development,101619,Computer science,Computer science
+578,C203763787,2,Null (SQL),97981,Computer science,Computer science
+579,C89600930,2,Segmentation,92338,Computer science,Computer science
+580,C160633673,2,Pixel,91990,Computer science,"Computer science,Physics"
+581,C118524514,1,Computer architecture,91294,Computer science,Computer science
+582,C48372109,2,Binary number,89251,Computer science,Mathematics
+583,C95713431,2,Vulnerability (computing),89064,Computer science,Computer science
+584,C205372480,2,Image resolution,89039,Computer science,"Computer science,Physics"
+585,C8880873,2,Genetic algorithm,89027,Computer science,"Biology,Computer science,Mathematics"
+586,C44154836,1,Simulation,86506,Computer science,"Computer science,Engineering"
+587,C149737253,4,Polymorphism (computer science),84965,Computer science,"Biology,Chemistry"
+588,C55020928,3,Image quality,84903,Computer science,"Computer science,Mathematics"
+589,C3020199158,2,High resolution,84434,Computer science,"Geography,Geology,History"
+590,C36464697,2,Visualization,84344,Computer science,"Computer science,Engineering"
+591,C148483581,2,Feature selection,84299,Computer science,Computer science
+592,C2779884254,2,Rabbit (cipher),83138,Computer science,"Computer science,Mathematics"
+593,C46762472,2,Peripheral,82391,Computer science,"Computer science,Medicine"
+594,C56666940,2,Documentation,81991,Computer science,Computer science
+595,C57273362,2,Decoding methods,80636,Computer science,"Computer science,Engineering,Mathematics"
+596,C184337299,2,Semantics (computer science),80266,Computer science,Computer science
+597,C48044578,2,Scalability,80156,Computer science,Computer science
+598,C25343380,2,Relation (database),79305,Computer science,Computer science
+599,C5119721,2,Quality of service,76700,Computer science,"Computer science,Engineering"
+600,C89992363,2,Track (disk drive),73933,Computer science,"Computer science,Engineering"
+601,C158379750,2,Network packet,73383,Computer science,Computer science
+602,C43521106,2,Pipeline (software),71001,Computer science,"Computer science,Engineering"
+603,C165005293,2,Chip,70245,Computer science,"Computer science,Engineering"
+604,C55416958,3,Job shop scheduling,70181,Computer science,Computer science
+605,C131017901,2,Logic gate,69090,Computer science,"Computer science,Engineering,Mathematics"
+606,C85617194,2,Particle swarm optimization,68330,Computer science,"Computer science,Mathematics"
+607,C141379421,2,Iterative reconstruction,67969,Computer science,"Computer science,Medicine"
+608,C121050878,2,Cloning (programming),67809,Computer science,Computer science
+609,C148730421,2,Encryption,64548,Computer science,Computer science
+610,C16443162,2,Educational technology,64250,Computer science,"Mathematics,Political science,Psychology,Sociology"
+611,C124504099,3,Image segmentation,64013,Computer science,"Computer science,Mathematics"
+612,C121017731,2,Information technology,63850,Computer science,"Computer science,Political science"
+613,C459310,1,Computational science,63431,Computer science,"Computer science,Mathematics"
+614,C207512268,2,Traffic flow (computer networking),63289,Computer science,Computer science
+615,C71472368,2,Text mining,63136,Computer science,Computer science
+616,C2778012447,2,Scope (computer science),60870,Computer science,Computer science
+617,C93518851,2,Metadata,58927,Computer science,Computer science
+618,C137800194,3,Interpolation (computer graphics),58147,Computer science,"Art,Computer science,Engineering,Mathematics,Physics"
+619,C57493831,2,Projection (relational algebra),58023,Computer science,Mathematics
+620,C2780609101,2,Resource management (computing),57701,Computer science,Computer science
+621,C178489894,2,Cryptography,56703,Computer science,"Computer science,Mathematics"
+622,C191015642,2,Fragmentation (computing),56289,Computer science,"Biology,Computer science"
+623,C147168706,3,Recurrent neural network,55611,Computer science,Computer science
+624,C548217200,2,Java,55158,Computer science,Computer science
+625,C557433098,2,Android (operating system),55060,Computer science,Computer science
+626,C76178495,2,Asset (computer security),55008,Computer science,Computer science
+627,C25344961,2,Virtual machine,54650,Computer science,Computer science
+628,C149091818,3,Software system,54175,Computer science,Computer science
+629,C104954878,3,Routing protocol,54098,Computer science,"Computer science,Engineering"
+630,C66322947,3,Transformer,53573,Computer science,"Engineering,Physics"
+631,C2984567223,3,E learning,53201,Computer science,"Computer science,Economics,Engineering,Mathematics,Political science,Psychology,Sociology"
+632,C189430467,2,Ranking (information retrieval),52627,Computer science,Computer science
+633,C2776151529,3,Object detection,51658,Computer science,Computer science
+634,C161921814,2,SMA*,51314,Computer science,"Computer science,Mathematics"
+635,C90559484,2,Expression (computer science),50871,Computer science,Computer science
+636,C67363961,2,Information and Communications Technology,50546,Computer science,"Computer science,Political science"
+637,C2779374083,2,CHAOS (operating system),50047,Computer science,Computer science
+638,C2776175482,2,Transfer (computing),49801,Computer science,Computer science
+639,C48002344,2,Verification and validation,49209,Computer science,"Economics,Engineering,Mathematics"
+640,C77967617,2,Active learning (machine learning),47842,Computer science,"Computer science,Mathematics"
+641,C2780365114,2,MATLAB,47744,Computer science,"Computer science,Engineering,Mathematics"
+642,C107327155,2,Decision support system,47141,Computer science,Computer science
+643,C2986087404,2,Online learning,46769,Computer science,Computer science
+644,C131979681,2,Point cloud,45088,Computer science,"Computer science,Engineering"
+645,C45393284,3,Conventional PCI,44395,Computer science,"Medicine,Psychology"
+646,C2777027219,2,Constant (computer programming),43918,Computer science,Computer science
+647,C126042441,2,Frame (networking),43444,Computer science,"Computer science,Engineering"
+648,C31510193,3,Facial recognition system,43389,Computer science,"Computer science,Mathematics"
+649,C107568181,3,Dynamic priority scheduling,43259,Computer science,Computer science
+650,C150594956,2,Wearable computer,42938,Computer science,"Computer science,Engineering"
+651,C153715457,2,Augmented reality,42906,Computer science,Computer science
+652,C2780902518,3,Inheritance (genetic algorithm),42664,Computer science,"Biology,Chemistry"
+653,C123201435,2,Information privacy,42600,Computer science,"Computer science,Political science"
+654,C93996380,2,Server,42010,Computer science,Computer science
+655,C199845137,2,Network topology,41976,Computer science,Computer science
+656,C2781039887,2,Factor (programming language),41347,Computer science,Computer science
+657,C170130773,2,Usability,41272,Computer science,Computer science
+658,C35578498,2,Web service,40912,Computer science,Computer science
+659,C41608201,2,Embedding,40285,Computer science,"Computer science,Mathematics"
+660,C109718341,2,Metaheuristic,39578,Computer science,"Computer science,Mathematics"
+661,C78548338,2,Data compression,39451,Computer science,"Computer science,Mathematics"
+662,C557945733,2,Data transmission,39171,Computer science,"Computer science,Engineering"
+663,C2775905019,3,In silico,39071,Computer science,"Biology,Chemistry"
+664,C41550386,2,Multi-agent system,38869,Computer science,Computer science
+665,C2776436953,2,Consistency (knowledge bases),38354,Computer science,"Computer science,Mathematics"
+666,C81074085,3,Motion planning,38350,Computer science,"Computer science,Mathematics"
+667,C82876162,2,Latency (audio),38297,Computer science,"Computer science,Engineering"
+668,C509933004,2,Broadband,38255,Computer science,"Computer science,Engineering,Physics,Political science"
+669,C110157686,2,Broadcasting (networking),38172,Computer science,Computer science
+670,C172367668,3,Data visualization,38111,Computer science,"Computer science,Engineering"
+671,C2781018962,2,Container (type theory),38042,Computer science,"Engineering,Materials science,Mathematics"
+672,C97541855,2,Reinforcement learning,37791,Computer science,Computer science
+673,C557471498,2,Recommender system,37695,Computer science,Computer science
+674,C138827492,2,Data processing,37688,Computer science,Computer science
+675,C2779426996,2,Echo (communications protocol),37097,Computer science,Computer science
+676,C97137487,2,Integer (computer science),36765,Computer science,Computer science
+677,C89305328,4,Link-state routing protocol,36734,Computer science,"Computer science,Engineering"
+678,C2780440489,2,Data-driven,35782,Computer science,Computer science
+679,C41971633,4,Key distribution in wireless sensor networks,35780,Computer science,"Computer science,Engineering"
+680,C187191949,2,Profiling (computer programming),35246,Computer science,Computer science
+681,C44255700,3,Hardening (computing),35222,Computer science,"Chemistry,Materials science"
+682,C33566652,2,Theme (computing),35218,Computer science,Computer science
+683,C159149176,2,Evolutionary algorithm,35011,Computer science,"Computer science,Mathematics"
+684,C192448918,4,Vehicular ad hoc network,33877,Computer science,"Computer science,Engineering"
+685,C139002025,2,Lift (data mining),33843,Computer science,Computer science
+686,C178635117,2,RADIUS,33743,Computer science,Computer science
+687,C184297639,2,Biometrics,33575,Computer science,Computer science
+688,C60048249,2,Syntax,33554,Computer science,"Computer science,Philosophy"
+689,C63540848,2,Fault tolerance,32988,Computer science,"Computer science,Engineering"
+690,C118505674,2,Encoder,32832,Computer science,"Computer science,Mathematics"
+691,C89505385,2,User interface,32762,Computer science,Computer science
+692,C186846655,4,Software construction,32459,Computer science,Computer science
+693,C2776545253,2,Folding (DSP implementation),32311,Computer science,Engineering
+694,C169093310,2,Personally identifiable information,32267,Computer science,"Computer science,Political science"
+695,C79158427,2,Analytics,32089,Computer science,Computer science
+696,C45804977,2,Predictive modelling,31979,Computer science,"Computer science,Mathematics"
+697,C201025465,2,User experience design,31739,Computer science,"Computer science,Engineering"
+698,C2993458768,2,Special section,31346,Computer science,"Engineering,Mathematics,Physics"
+699,C167343916,2,Modeling and simulation,30929,Computer science,"Computer science,Engineering"
+700,C169258074,2,Random forest,30842,Computer science,Computer science
+701,C21442007,2,Graphics,30580,Computer science,"Art,Computer science"
+702,C120373497,2,Parallel algorithm,30532,Computer science,"Computer science,Mathematics"
+703,C83867959,3,Scopus,30502,Computer science,"Biology,Chemistry,Political science"
+704,C5339829,2,Machine vision,30329,Computer science,Computer science
+705,C43126263,2,Source code,30135,Computer science,Computer science
+706,C78336883,2,Aperture (computer memory),30091,Computer science,"Engineering,Physics"
+707,C82990744,2,RGB color model,30054,Computer science,Computer science
+708,C64073096,3,Interactive visualization,30010,Computer science,"Computer science,Engineering"
+709,C2780069185,2,Equivalence (formal languages),29878,Computer science,"Mathematics,Philosophy"
+710,C79373723,3,Web development,29843,Computer science,Computer science
+711,C2778751112,2,Window (computing),29752,Computer science,Computer science
+712,C2776321320,2,Annotation,29292,Computer science,"Biology,Computer science"
+713,C70518039,2,Dimensionality reduction,29171,Computer science,Computer science
+714,C2777683733,2,Directory,29169,Computer science,Computer science
+715,C174348530,2,Bridging (networking),28779,Computer science,Computer science
+716,C9893847,2,Reproducibility,28761,Computer science,"Chemistry,Mathematics,Philosophy"
+717,C68476402,2,Table of contents,28652,Computer science,Computer science
+718,C61039578,3,Dirac (video compression format),28637,Computer science,Physics
+719,C2988145974,2,Mobile apps,28570,Computer science,Computer science
+720,C197781089,2,Rust (programming language),28441,Computer science,Computer science
+721,C31266012,3,Linkage (software),28426,Computer science,"Biology,Chemistry"
+722,C75294576,3,Contextual image classification,28275,Computer science,"Computer science,Mathematics"
+723,C2777826928,2,Fingerprint (computing),28264,Computer science,Computer science
+724,C60952562,3,Mobile technology,28008,Computer science,"Computer science,Engineering"
+725,C2779955035,2,Advice (programming),27987,Computer science,Computer science
+726,C130318100,2,Semantic similarity,27977,Computer science,Computer science
+727,C117011727,2,Bit (key),27976,Computer science,Computer science
+728,C94523657,3,Wireless ad hoc network,27954,Computer science,"Computer science,Engineering"
+729,C173163844,2,Multispectral image,27939,Computer science,"Computer science,Geography,Geology"
+730,C29470771,4,Neuro-fuzzy,27939,Computer science,"Computer science,Engineering,Mathematics,Philosophy"
+731,C9659607,4,Dynamic Source Routing,27927,Computer science,"Computer science,Engineering"
+732,C17212007,3,Fuzzy clustering,27619,Computer science,"Computer science,Mathematics,Philosophy"
+733,C311688,2,Time complexity,27606,Computer science,"Computer science,Mathematics"
+734,C144543869,2,Mobile computing,27442,Computer science,"Computer science,Engineering"
+735,C91280400,3,Mobile ad hoc network,27252,Computer science,"Computer science,Engineering"
+736,C145642194,3,Health informatics,27247,Computer science,"Economics,Medicine,Political science"
+737,C105339364,2,Software deployment,27218,Computer science,"Computer science,Engineering"
+738,C185765463,2,Enterprise software,27203,Computer science,"Business,Computer science,Engineering"
+739,C58396970,2,Cracking,27180,Computer science,"Chemistry,Materials science"
+740,C77660652,2,Computer graphics,27144,Computer science,Computer science
+741,C17632256,2,Digital media,26996,Computer science,"Computer science,Political science"
+742,C122592724,3,Dynamic Monte Carlo method,26789,Computer science,Mathematics
+743,C118530786,2,Instrumentation (computer programming),26530,Computer science,Computer science
+744,C40149104,2,Factory (object-oriented programming),26257,Computer science,Computer science
+745,C516764902,4,Mobile Web,26174,Computer science,"Computer science,Engineering"
+746,C2781215313,2,SPARK (programming language),26079,Computer science,Computer science
+747,C45347329,3,Convolution (computer science),25955,Computer science,Computer science
+748,C30014739,2,Cone (formal languages),25936,Computer science,"Computer science,Mathematics"
+749,C27295321,2,Enterprise information system,25814,Computer science,"Business,Computer science,Engineering"
+750,C42360764,1,Chemical engineering,2490667,Engineering,Engineering
+751,C127413603,0,Engineering,1816582,Engineering,Engineering
+752,C49040817,1,Optoelectronics,1531139,Engineering,"Materials science,Physics"
+753,C186370098,2,Energy (signal processing),659030,Engineering,"Mathematics,Physics"
+754,C191897082,1,Metallurgy,618547,Engineering,Materials science
+755,C55587333,1,Engineering ethics,596851,Engineering,Engineering
+756,C171146098,1,Automotive engineering,559419,Engineering,Engineering
+757,C528095902,1,Pulp and paper industry,518327,Engineering,Engineering
+758,C66938386,1,Structural engineering,499895,Engineering,Engineering
+759,C24326235,1,Electronic engineering,478499,Engineering,Engineering
+760,C135628077,2,Finite element method,477437,Engineering,"Engineering,Mathematics,Physics"
+761,C203479927,2,Controller (irrigation),459341,Engineering,"Biology,Geology"
+762,C110354214,1,Engineering management,444210,Engineering,Engineering
+763,C119599485,1,Electrical engineering,441392,Engineering,Engineering
+764,C134121241,2,Yield (engineering),428994,Engineering,"Materials science,Physics"
+765,C78519656,1,Mechanical engineering,398974,Engineering,Engineering
+766,C555944384,2,Wireless,389265,Engineering,"Computer science,Engineering"
+767,C17500928,2,Control system,384597,Engineering,"Engineering,Mathematics"
+768,C43214815,3,Reliability (semiconductor),380283,Engineering,"Engineering,Physics"
+769,C127162648,2,Channel (broadcasting),359137,Engineering,"Computer science,Engineering"
+770,C2780645631,2,Stroke (engine),347272,Engineering,"Engineering,Physics"
+771,C761482,2,Transmission (telecommunications),344375,Engineering,"Computer science,Engineering"
+772,C21880701,1,Process engineering,342689,Engineering,Engineering
+773,C187320778,1,Geotechnical engineering,339119,Engineering,"Engineering,Geology"
+774,C136229726,1,Biomedical engineering,336140,Engineering,"Engineering,Medicine"
+775,C115903868,1,Software engineering,329571,Engineering,"Computer science,Engineering"
+776,C117671659,1,Manufacturing engineering,317612,Engineering,Engineering
+777,C178802073,1,Aeronautics,305342,Engineering,Engineering
+778,C89227174,3,Electric power system,304850,Engineering,Physics
+779,C22212356,1,Transport engineering,292129,Engineering,Engineering
+780,C184720557,2,Topology (electrical circuits),290652,Engineering,"Engineering,Mathematics"
+781,C136525101,3,Fabrication,287674,Engineering,Medicine
+782,C17525397,2,Electrode,286313,Engineering,"Chemistry,Physics"
+783,C42704618,2,Spin (aerodynamics),275094,Engineering,"Engineering,Physics"
+784,C164866538,2,Cluster (spacecraft),270183,Engineering,Computer science
+785,C116915560,1,Nuclear engineering,255382,Engineering,Engineering
+786,C18555067,2,Joint (building),250577,Engineering,Engineering
+787,C200601418,1,Reliability engineering,239637,Engineering,Engineering
+788,C133731056,1,Control engineering,230612,Engineering,Engineering
+789,C106131492,2,Filter (signal processing),229939,Engineering,"Computer science,Engineering"
+790,C26517878,2,Key (lock),229019,Engineering,"Biology,Computer science"
+791,C61696701,1,Engineering physics,218554,Engineering,"Engineering,Physics"
+792,C149635348,1,Embedded system,213864,Engineering,"Computer science,Engineering"
+793,C131584629,2,Coupling (piping),212674,Engineering,"Engineering,Materials science"
+794,C90509273,2,Robot,211527,Engineering,Computer science
+795,C112930515,1,Risk analysis (engineering),208271,Engineering,"Business,Medicine"
+796,C168834538,2,Beam (structure),205254,Engineering,"Engineering,Physics"
+797,C204036174,2,Stock (firearms),204908,Engineering,"Engineering,Geography,History,Materials science"
+798,C2779679103,2,Degradation (telecommunications),203810,Engineering,"Computer science,Engineering"
+799,C170154142,1,Architectural engineering,199333,Engineering,Engineering
+800,C19269812,2,Satellite,198351,Engineering,"Engineering,Physics"
+801,C78762247,1,Petroleum engineering,198104,Engineering,"Engineering,Geology"
+802,C201995342,1,Systems engineering,196535,Engineering,Engineering
+803,C2779227376,2,Layer (electronics),192926,Engineering,"Chemistry,Materials science"
+804,C41291067,2,Photovoltaic system,186586,Engineering,"Biology,Engineering"
+805,C76155785,1,Telecommunications,186463,Engineering,"Computer science,Engineering"
+806,C165838908,2,Calibration,184440,Engineering,"Mathematics,Physics"
+807,C199104240,1,Marine engineering,183990,Engineering,Engineering
+808,C123657996,2,Architecture,177202,Engineering,"Art,Geography,History"
+809,C42475967,1,Operations research,174269,Engineering,"Engineering,Mathematics"
+810,C87717796,1,Environmental engineering,173216,Engineering,"Engineering,Environmental science"
+811,C26771246,2,Scanning electron microscope,170286,Engineering,"Materials science,Physics"
+812,C77595967,1,Forensic engineering,168037,Engineering,Engineering
+813,C204323151,2,Range (aeronautics),167371,Engineering,"Engineering,Materials science"
+814,C146978453,1,Aerospace engineering,164278,Engineering,Engineering
+815,C206729178,2,Scheduling (production processes),163480,Engineering,"Economics,Engineering,Mathematics"
+816,C166735990,3,Human factors and ergonomics,155410,Engineering,Medicine
+817,C199639397,1,Engineering drawing,153770,Engineering,Engineering
+818,C140779682,3,Sampling (signal processing),150601,Engineering,"Computer science,Engineering"
+819,C2778712887,2,Spring (device),149874,Engineering,"Engineering,Physics"
+820,C200457457,2,Ventilation (architecture),147750,Engineering,"Engineering,Geography,Physics"
+821,C1633027,2,Computational fluid dynamics,145065,Engineering,"Engineering,Physics"
+822,C194232370,2,Optical fiber,144472,Engineering,"Computer science,Engineering,Physics"
+823,C16674752,1,Mining engineering,142736,Engineering,"Engineering,Geology"
+824,C32022120,3,Interference (communication),138367,Engineering,"Computer science,Engineering"
+825,C172385210,3,Transistor,134057,Engineering,"Engineering,Physics"
+826,C57442070,2,Sewage treatment,132028,Engineering,"Engineering,Environmental science"
+827,C21822782,2,Antenna (radio),128512,Engineering,"Computer science,Engineering"
+828,C2164484,2,Core (optical fiber),128431,Engineering,"Computer science,Engineering,Materials science,Physics"
+829,C134146338,2,Electronic circuit,126585,Engineering,"Engineering,Physics"
+830,C2777551473,2,Tube (container),123408,Engineering,"Engineering,Materials science"
+831,C200687136,2,Waveguide,117434,Engineering,"Materials science,Physics"
+832,C73916439,3,Energy storage,116849,Engineering,Physics
+833,C147176958,1,Civil engineering,115955,Engineering,Engineering
+834,C423512,3,Electricity generation,115822,Engineering,Physics
+835,C67101536,2,George (robot),115293,Engineering,"Art,Computer science,History"
+836,C555008776,3,Battery (electricity),114763,Engineering,Physics
+837,C21200559,2,Sensitivity (control systems),111475,Engineering,"Engineering,Mathematics"
+838,C32802771,2,Port (circuit theory),105028,Engineering,Engineering
+839,C107365816,2,Surface roughness,100708,Engineering,"Materials science,Physics"
+840,C93226319,2,Differential (mechanical device),97674,Engineering,"Engineering,Physics"
+841,C2778422915,3,Converters,97643,Engineering,"Engineering,Physics"
+842,C115901376,2,Automation,97501,Engineering,"Engineering,Mathematics"
+843,C2780013297,2,Boiler (water heating),97437,Engineering,"Engineering,Physics"
+844,C183696295,1,Biochemical engineering,97357,Engineering,Engineering
+845,C46362747,2,CMOS,97305,Engineering,"Engineering,Materials science,Physics"
+846,C554190296,2,Radar,96693,Engineering,"Computer science,Engineering"
+847,C162307627,2,Enhanced Data Rates for GSM Evolution,96012,Engineering,"Computer science,Engineering"
+848,C130787639,2,Hamiltonian (control theory),95871,Engineering,"Engineering,Mathematics"
+849,C78600449,2,Wind power,94840,Engineering,"Biology,Engineering"
+850,C107053488,1,Construction engineering,94764,Engineering,Engineering
+851,C59085676,2,Fracture mechanics,93212,Engineering,"Engineering,Materials science,Physics"
+852,C104267543,3,Signal processing,92310,Engineering,"Computer science,Engineering"
+853,C2778562939,3,Synchronization (alternating current),92151,Engineering,"Computer science,Engineering"
+854,C42935608,2,Field-programmable gate array,91052,Engineering,"Computer science,Engineering"
+855,C47116090,3,PID controller,90765,Engineering,"Engineering,Mathematics"
+856,C108755667,3,AC power,90107,Engineering,"Engineering,Physics"
+857,C88862950,2,Irrigation,89776,Engineering,"Biology,Geology"
+858,C195268267,2,Slip (aerodynamics),89302,Engineering,"Engineering,Physics"
+859,C60229501,2,Global Positioning System,88869,Engineering,"Computer science,Engineering"
+860,C81288441,2,Ultrasonic sensor,87430,Engineering,"Medicine,Physics"
+861,C206991015,2,Energy conversion efficiency,87421,Engineering,"Engineering,Materials science,Physics"
+862,C89395315,3,Anode,87227,Engineering,"Chemistry,Physics"
+863,C17281054,2,Rotor (electric),84450,Engineering,"Engineering,Physics"
+864,C2988805333,2,Reinforced concrete,83699,Engineering,"Engineering,Materials science"
+865,C30403606,2,Electromagnetic coil,82693,Engineering,"Engineering,Physics"
+866,C160756335,2,Biosensor,82561,Engineering,"Biology,Chemistry,Materials science"
+867,C162284963,2,Submarine pipeline,81919,Engineering,"Engineering,Geology"
+868,C2778449969,2,Turbine,80806,Engineering,"Engineering,Physics"
+869,C108615695,3,Coal mining,80173,Engineering,"Chemistry,Engineering,Geography,History"
+870,C74172769,2,Routing (electronic design automation),79062,Engineering,"Computer science,Engineering"
+871,C152745839,3,Fault detection and isolation,78492,Engineering,"Engineering,Physics"
+872,C111106434,2,Die (integrated circuit),77863,Engineering,"Computer science,Engineering,Materials science"
+873,C19474535,2,Welding,76653,Engineering,"Engineering,Materials science"
+874,C157764524,3,Throughput,76521,Engineering,"Computer science,Engineering"
+875,C78434282,2,Diode,76047,Engineering,"Engineering,Materials science,Physics"
+876,C2781052500,2,Shell (structure),75859,Engineering,"Engineering,Materials science"
+877,C34413123,3,Robotics,75307,Engineering,Computer science
+878,C81978471,3,Fading,74061,Engineering,"Computer science,Engineering,Mathematics"
+879,C29829512,2,Spacecraft,72766,Engineering,"Engineering,Physics"
+880,C88199923,2,Food processing,71987,Engineering,"Biology,Chemistry,Political science"
+881,C523214423,2,Machining,71895,Engineering,"Engineering,Materials science"
+882,C52192207,3,Capacitor,71604,Engineering,"Engineering,Physics"
+883,C88463610,1,Agricultural engineering,69969,Engineering,Engineering
+884,C539828613,2,Public transport,67154,Engineering,"Engineering,Political science"
+885,C49892992,2,Tissue engineering,66590,Engineering,"Biology,Engineering,Medicine"
+886,C101765175,2,Communications system,66569,Engineering,"Computer science,Engineering"
+887,C2780992000,3,Generator (circuit theory),66320,Engineering,Physics
+888,C2776422217,3,Electric vehicle,66032,Engineering,Physics
+889,C97053079,2,Water supply,65730,Engineering,"Engineering,Environmental science,Geology"
+890,C19966478,3,Mobile robot,65596,Engineering,Computer science
+891,C2779664074,2,Terminal (telecommunication),65425,Engineering,"Computer science,Engineering"
+892,C74448152,2,Aviation,65404,Engineering,Engineering
+893,C4311470,2,Power station,65060,Engineering,"Engineering,Physics"
+894,C138331895,2,Electronics,65028,Engineering,"Chemistry,Engineering"
+895,C175700187,2,Manufacturing,64035,Engineering,"Business,Political science"
+896,C190960625,2,Water treatment,63987,Engineering,"Engineering,Environmental science"
+897,C71039073,2,Surface finish,63678,Engineering,"Engineering,Materials science"
+898,C194257627,3,Amplifier,63645,Engineering,"Computer science,Engineering"
+899,C83260615,2,Mars Exploration Program,63538,Engineering,"Biology,Physics"
+900,C56200935,2,Nozzle,62319,Engineering,"Engineering,Physics"
+901,C170700871,2,Biomechanics,59548,Engineering,"Biology,Medicine,Physics"
+902,C165347436,3,Project commissioning,58111,Engineering,"Art,Political science"
+903,C25197100,2,Drilling,57809,Engineering,"Engineering,Materials science"
+904,C40409654,3,Orthogonal frequency-division multiplexing,57545,Engineering,"Computer science,Engineering,Mathematics"
+905,C154586513,3,Tracking system,57388,Engineering,"Computer science,Physics"
+906,C29700514,3,Heat transfer coefficient,57272,Engineering,Physics
+907,C157286648,2,Kalman filter,57246,Engineering,"Computer science,Engineering,Mathematics"
+908,C153646914,2,Cellular network,57025,Engineering,"Computer science,Engineering"
+909,C167310744,2,Tribology,56425,Engineering,"Engineering,Materials science"
+910,C153400128,2,Infiltration (HVAC),55259,Engineering,"Geography,Materials science,Physics"
+911,C2777986313,2,Industry 4.0,54814,Engineering,"Computer science,Engineering"
+912,C172707124,2,Actuator,54167,Engineering,"Computer science,Engineering,Mathematics"
+913,C8673954,2,Microfluidics,53887,Engineering,"Materials science,Physics"
+914,C40293303,3,Electric power,53843,Engineering,Physics
+915,C2987658370,2,Fuel cells,53543,Engineering,Engineering
+916,C2781345722,2,Drop (telecommunication),53477,Engineering,"Computer science,Engineering"
+917,C529865628,2,Manifold (fluid mechanics),53384,Engineering,Engineering
+918,C185798385,2,Benchmark (surveying),52765,Engineering,"Geography,Geology"
+919,C186394612,2,Optimal design,52486,Engineering,"Computer science,Mathematics"
+920,C68649174,2,Base station,51492,Engineering,"Computer science,Engineering"
+921,C16635281,2,Casting,51390,Engineering,"Art,Materials science"
+922,C87360688,2,Synthetic aperture radar,51212,Engineering,"Computer science,Geography,Geology"
+923,C56318395,2,Transducer,50684,Engineering,"Engineering,Physics"
+924,C138660444,2,Telecommunications link,50599,Engineering,"Computer science,Engineering"
+925,C92746544,3,Pulse-width modulation,50528,Engineering,"Computer science,Engineering,Physics"
+926,C144534570,3,Inductor,49918,Engineering,"Engineering,Physics"
+927,C184608416,2,Lubrication,49419,Engineering,"Engineering,Materials science,Physics"
+928,C195370968,4,Threshold voltage,49077,Engineering,"Engineering,Physics"
+929,C11190779,3,Inverter,49007,Engineering,"Engineering,Physics"
+930,C513653683,2,Nuclear power,48805,Engineering,"Biology,Physics"
+931,C207987634,3,MIMO,48711,Engineering,"Computer science,Engineering,Mathematics"
+932,C526740375,2,Petroleum industry,47756,Engineering,"Biology,Engineering,Environmental science,Geology"
+933,C7817414,3,Energy management,47525,Engineering,"Mathematics,Physics"
+934,C2778022998,3,Transit (satellite),47516,Engineering,"Engineering,Political science"
+935,C37977207,2,Microelectromechanical systems,47389,Engineering,"Materials science,Physics"
+936,C175309249,2,Pipeline transport,46884,Engineering,"Chemistry,Engineering,Environmental science"
+937,C10558101,2,Smart grid,46788,Engineering,"Biology,Engineering"
+938,C2776036281,2,Constraint (computer-aided design),46740,Engineering,"Engineering,Mathematics"
+939,C88182573,3,High voltage,46443,Engineering,"Engineering,Physics"
+940,C13736549,1,Industrial engineering,46323,Engineering,Engineering
+941,C172120300,2,Volumetric flow rate,46166,Engineering,Physics
+942,C131779359,2,Amine gas treating,44544,Engineering,"Chemistry,Engineering,Environmental science"
+943,C544738498,3,Distributed generation,44482,Engineering,"Biology,Engineering,Physics"
+944,C128624480,3,Low voltage,43782,Engineering,"Engineering,Physics"
+945,C71376005,2,Synchronous motor,43754,Engineering,"Engineering,Mathematics,Physics"
+946,C47798520,3,Transmitter,43458,Engineering,"Computer science,Engineering"
+947,C524769229,2,3D printing,43458,Engineering,"Engineering,Materials science"
+948,C18533594,4,Direct numerical simulation,43354,Engineering,"Geography,Physics"
+949,C130230704,4,Nusselt number,42716,Engineering,"Geography,Physics"
+950,C97257150,2,Wing,42711,Engineering,"Engineering,Physics"
+951,C2778413303,4,MOSFET,42266,Engineering,"Engineering,Physics"
+952,C172205157,3,Model predictive control,42200,Engineering,"Computer science,Economics"
+953,C2776529397,2,Stator,42133,Engineering,"Engineering,Physics"
+954,C107706546,2,Heat exchanger,41860,Engineering,"Engineering,Physics"
+955,C42156128,3,Total harmonic distortion,41498,Engineering,"Engineering,Physics"
+956,C137246740,3,Spectral efficiency,41435,Engineering,"Computer science,Engineering,Mathematics"
+957,C51399673,2,Lidar,41399,Engineering,"Geography,Geology,Physics"
+958,C89631360,2,Phase noise,41296,Engineering,"Engineering,Physics"
+959,C67592535,2,Drainage,40589,Engineering,"Biology,Geology"
+960,C89429830,2,Scaffold,40542,Engineering,"Computer science,Engineering,Medicine"
+961,C195975749,3,Fuzzy control system,40449,Engineering,"Computer science,Engineering,Mathematics,Philosophy"
+962,C52121051,2,Truck,40268,Engineering,"Engineering,Physics"
+963,C103742991,2,Air conditioning,40019,Engineering,"Engineering,Physics"
+964,C113145756,3,Dipole antenna,39921,Engineering,"Computer science,Engineering"
+965,C163294075,2,Noise reduction,39915,Engineering,"Computer science,Physics"
+966,C168170006,2,Bioreactor,39865,Engineering,"Biology,Chemistry"
+967,C2780804531,2,Diesel engine,39839,Engineering,"Engineering,Physics"
+968,C149011108,3,Transporter,39492,Engineering,"Biology,Chemistry"
+969,C121099081,2,Trap (plumbing),39380,Engineering,"Engineering,Environmental science,Geography,Physics"
+970,C2779888511,2,Traffic congestion,39272,Engineering,Engineering
+971,C176666156,2,Light-emitting diode,38623,Engineering,"Engineering,Materials science,Physics"
+972,C51038369,2,Mass transfer,38553,Engineering,"Chemistry,Physics"
+973,C100086909,2,Wind tunnel,38462,Engineering,"Engineering,Physics"
+974,C159063594,2,Ignition system,38330,Engineering,"Engineering,Physics"
+975,C530198007,2,Integrated circuit,38256,Engineering,"Computer science,Engineering,Materials science,Physics"
+976,C33441834,2,Transmission line,38236,Engineering,"Computer science,Engineering"
+977,C10929652,3,Radar imaging,37998,Engineering,"Computer science,Engineering"
+978,C69398868,3,Lightning (connector),37959,Engineering,Physics
+979,C187878255,2,Rocket (weapon),37630,Engineering,"Engineering,Geography,History"
+980,C107464732,3,Adaptive control,37407,Engineering,"Computer science,Economics,Engineering,Mathematics,Physics"
+981,C96834759,3,Phase modulation,37374,Engineering,"Engineering,Physics"
+982,C2777421447,2,Mobile phone,37343,Engineering,"Computer science,Engineering"
+983,C159048435,2,Slag (welding),37294,Engineering,"Engineering,Materials science"
+984,C174128100,2,Spiral (railway),37225,Engineering,"Engineering,Mathematics"
+985,C84462506,2,Digital signal processing,37211,Engineering,"Computer science,Engineering"
+986,C80962145,3,Induction motor,37062,Engineering,"Engineering,Physics"
+987,C102248274,2,Adaptive filter,36683,Engineering,"Computer science,Engineering,Mathematics"
+988,C173871940,3,Three-phase,36618,Engineering,"Engineering,Physics"
+989,C2777777821,4,Heat transfer enhancement,36608,Engineering,"Geography,Physics"
+990,C56529433,2,Nondestructive testing,36420,Engineering,"Medicine,Physics"
+991,C87359718,3,Thin-film transistor,36017,Engineering,"Chemistry,Materials science,Physics"
+992,C148063708,3,Channel state information,35798,Engineering,"Computer science,Engineering,Mathematics"
+993,C2986189917,3,Asphalt pavement,35746,Engineering,"Geography,History,Materials science"
+994,C79061980,2,Inertial measurement unit,35711,Engineering,"Computer science,Engineering"
+995,C2780202535,2,Wideband,35517,Engineering,"Engineering,Physics"
+996,C9526370,2,Fuel injection,35370,Engineering,Engineering
+997,C59519942,2,Drone,35138,Engineering,Biology
+998,C2776748203,2,Roof,34801,Engineering,"Engineering,Geography,History"
+999,C101468663,2,Modular design,34765,Engineering,Computer science

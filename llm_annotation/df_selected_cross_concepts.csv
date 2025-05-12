@@ -1,0 +1,304 @@
+id,level,display_name,llm_annotation
+C100001284,1,Public economics,Economics
+C100970517,1,Physical geography,Geography
+C10138342,1,Finance,Business
+C105639569,1,Economic policy,Economics
+C105702510,1,Anatomy,Biology
+C105795698,1,Statistics,Mathematics
+C106159729,1,Financial economics,Economics
+C107038049,1,Aesthetics,Philosophy
+C107053488,1,Construction engineering,Engineering
+C107457646,1,Human–computer interaction,Computer science
+C107826830,1,Environmental resource management,Environmental science
+C107872376,1,Environmental chemistry,Chemistry
+C107993555,1,Gender studies,Sociology
+C108827166,1,Internet privacy,Computer science
+C109214941,1,Particle physics,Physics
+C110354214,1,Engineering management,Engineering
+C111368507,1,Oceanography,Environmental science
+C111472728,1,Epistemology,Philosophy
+C11171543,1,Psychoanalysis,Psychology
+C111919701,1,Operating system,Computer science
+C112698675,1,Advertising,Business
+C112930515,1,Risk analysis (engineering),Engineering
+C113775141,1,Computer engineering,Engineering
+C11413529,1,Algorithm,Computer science
+C114614502,1,Combinatorics,Mathematics
+C114793014,1,Geomorphology,Geology
+C115903868,1,Software engineering,Engineering
+C116915560,1,Nuclear engineering,Engineering
+C117671659,1,Manufacturing engineering,Engineering
+C118084267,1,Positive economics,Economics
+C118487528,1,Ophthalmology,Medicine
+C118524514,1,Computer architecture,Computer science
+C118552586,1,Psychiatry,Medicine
+C118615104,1,Discrete mathematics,Mathematics
+C119599485,1,Electrical engineering,Engineering
+C119767625,1,Optometry,Medicine
+C119857082,1,Machine learning,Computer science
+C120314980,1,Distributed computing,Computer science
+C120665830,1,Optics,Physics
+C121332964,0,Physics,Physics
+C121684516,1,Computer graphics (images),Computer science
+C121864883,1,Statistical physics,Physics
+C121955636,1,Accounting,Business
+C124101348,1,Data mining,Computer science
+C124952713,1,Literature,Art
+C12554922,1,Biophysics,Biology
+C126255220,1,Mathematical optimization,Mathematics
+C126322002,1,Internal medicine,Medicine
+C126348684,1,Polymer science,Materials science
+C126838900,1,Radiology,Medicine
+C126894567,1,Urology,Medicine
+C127313418,0,Geology,Geology
+C127413603,0,Engineering,Engineering
+C1276947,1,Astronomy,Physics
+C131872663,1,Obstetrics,Medicine
+C13280743,1,Geodesy,Geography
+C133425853,1,Neoclassical economics,Economics
+C133731056,1,Control engineering,Engineering
+C134018914,1,Endocrinology,Medicine
+C134306372,1,Mathematical analysis,Mathematics
+C134560507,1,Environmental economics,Economics
+C136229726,1,Biomedical engineering,Engineering
+C136264566,1,Economy,Economics
+C136764020,1,World Wide Web,Computer science
+C13736549,1,Industrial engineering,Engineering
+C138496976,1,Developmental psychology,Psychology
+C138885662,0,Philosophy,Philosophy
+C138921699,1,Political economy,Political science
+C13965031,1,Nuclear chemistry,Chemistry
+C139719470,1,Macroeconomics,Economics
+C140793950,1,Animal science,Biology
+C141071460,1,Surgery,Medicine
+C142362112,0,Art,Art
+C142724271,1,Pathology,Medicine
+C143998085,1,Oncology,Medicine
+C144024400,0,Sociology,Sociology
+C144027150,1,Horticulture,Biology
+C144133560,0,Business,Business
+C144237770,1,Mathematical economics,Economics
+C145236788,1,Labour economics,Economics
+C145420912,1,Mathematics education,Mathematics
+C146978453,1,Aerospace engineering,Engineering
+C147176958,1,Civil engineering,Engineering
+C147597530,1,Computational chemistry,Chemistry
+C147789679,1,Physical chemistry,Chemistry
+C148383697,1,Regional science,Geography
+C149635348,1,Embedded system,Engineering
+C149782125,1,Econometrics,Economics
+C149923435,1,Demography,Sociology
+C150903083,1,Biotechnology,Biology
+C151730666,1,Paleontology,Geology
+C153294291,1,Meteorology,Environmental science
+C153349607,1,Visual arts,Art
+C153911025,1,Molecular biology,Biology
+C154945302,1,Artificial intelligence,Computer science
+C155202549,1,International trade,Economics
+C155647269,1,Medicinal chemistry,Chemistry
+C15708023,1,Humanities,Philosophy
+C15744967,0,Psychology,Psychology
+C159047783,1,Virology,Biology
+C159110408,1,Nursing,Medicine
+C159390177,1,Soil science,Environmental science
+C159467904,1,Chemical physics,Physics
+C159985019,1,Composite material,Materials science
+C16005928,1,Dermatology,Medicine
+C161191863,1,Library science,Sociology
+C162118730,1,Actuarial science,Mathematics
+C162324750,0,Economics,Economics
+C162853370,1,Marketing,Business
+C164705383,1,Cardiology,Medicine
+C165205528,1,Seismology,Geology
+C165556158,1,Keynesian economics,Economics
+C16674752,1,Mining engineering,Engineering
+C16685009,1,Andrology,Medicine
+C166957645,1,Archaeology,History
+C167562979,1,Classical economics,Economics
+C169760540,1,Neuroscience,Biology
+C170154142,1,Architectural engineering,Engineering
+C171146098,1,Automotive engineering,Engineering
+C171250308,1,Nanotechnology,Materials science
+C173608175,1,Parallel computing,Computer science
+C17409809,1,Geochemistry,Geology
+C175444787,1,Microeconomics,Economics
+C175605778,1,Natural resource economics,Economics
+C177322064,1,Radiochemistry,Chemistry
+C17744445,0,Political science,Political science
+C177713679,1,Intensive care medicine,Medicine
+C178550888,1,Business administration,Business
+C178790620,1,Organic chemistry,Chemistry
+C178802073,1,Aeronautics,Engineering
+C179104552,1,Inorganic chemistry,Chemistry
+C180747234,1,Cognitive psychology,Psychology
+C183696295,1,Biochemical engineering,Engineering
+C184779094,1,Atomic physics,Physics
+C18547055,1,International economics,Economics
+C185544564,1,Nuclear physics,Physics
+C185592680,0,Chemistry,Chemistry
+C186060115,1,Biological system,Biology
+C1862650,1,Physical therapy,Medicine
+C187212893,1,Pediatrics,Medicine
+C187320778,1,Geotechnical engineering,Engineering
+C187736073,1,Management,Business
+C188027245,1,Polymer chemistry,Chemistry
+C188147891,1,Cognitive science,Psychology
+C18903297,1,Ecology,Environmental science
+C190253527,1,Law and economics,Economics
+C19165224,1,Anthropology,Sociology
+C191897082,1,Metallurgy,Engineering
+C192562407,0,Materials science,Materials science
+C19417346,1,Pedagogy,Psychology
+C194828623,1,Emergency medicine,Medicine
+C195094911,1,Process management,Business
+C195244886,1,Ancient history,History
+C19527891,1,Medical physics,Physics
+C1965285,1,Earth science,Geology
+C199104240,1,Marine engineering,Engineering
+C199289684,1,Mineralogy,Geology
+C199343813,1,Dentistry,Medicine
+C199360897,1,Programming language,Computer science
+C199539241,1,Law,Political science
+C199639397,1,Engineering drawing,Engineering
+C200601418,1,Reliability engineering,Engineering
+C201995342,1,Systems engineering,Engineering
+C202444582,1,Pure mathematics,Mathematics
+C203014093,1,Immunology,Medicine
+C204321447,1,Natural language processing,Computer science
+C205649164,0,Geography,Geography
+C21547014,1,Operations management,Business
+C21880701,1,Process engineering,Engineering
+C21951064,1,Combinatorial chemistry,Chemistry
+C22212356,1,Transport engineering,Engineering
+C23123220,1,Information retrieval,Computer science
+C24326235,1,Electronic engineering,Engineering
+C24667770,1,Religious studies,Philosophy
+C24890656,1,Acoustics,Physics
+C2522767166,1,Data science,Computer science
+C2524010,1,Geometry,Mathematics
+C2549261,1,Ethnology,Sociology
+C26271046,1,Economic geography,Geography
+C26873012,1,Condensed matter physics,Physics
+C27206212,1,Theology,Philosophy
+C28490314,1,Speech recognition,Computer science
+C28826006,1,Applied mathematics,Mathematics
+C29456083,1,Gynecology,Medicine
+C29595303,1,Media studies,Sociology
+C29694066,1,Orthodontics,Medicine
+C2989005,1,Nuclear medicine,Medicine
+C30475298,1,Computational physics,Physics
+C3079626,1,Quantum electrodynamics,Physics
+C3116431,1,Public administration,Political science
+C31258907,1,Computer network,Computer science
+C31903555,1,Food science,Chemistry
+C31972630,1,Computer vision,Computer science
+C33070731,1,Toxicology,Medicine
+C33332235,1,Theoretical physics,Physics
+C33923547,0,Mathematics,Mathematics
+C34447519,1,Market economy,Economics
+C36289849,1,Social science,Sociology
+C37621935,1,Agricultural science,Biology
+C37914503,1,Mathematical physics,Physics
+C38652104,1,Computer security,Computer science
+C39432304,0,Environmental science,Environmental science
+C39549134,1,Public relations,Business
+C40700,1,Industrial organization,Economics
+C41008148,0,Computer science,Computer science
+C41895202,1,Linguistics,Philosophy
+C41999313,1,Molecular physics,Physics
+C42219234,1,Anesthesia,Medicine
+C42360764,1,Chemical engineering,Engineering
+C42407357,1,Physiology,Biology
+C42475967,1,Operations research,Engineering
+C4249254,1,Demographic economics,Economics
+C42972112,1,Veterinary medicine,Medicine
+C43617362,1,Chromatography,Chemistry
+C44154836,1,Simulation,Computer science
+C44870925,1,Astrophysics,Physics
+C45355965,1,Socioeconomics,Sociology
+C459310,1,Computational science,Computer science
+C46141821,1,Nuclear magnetic resonance,Physics
+C46312422,1,Communication,Sociology
+C47768531,1,Development economics,Economics
+C48824518,1,Agricultural economics,Economics
+C49040817,1,Optoelectronics,Engineering
+C49204034,1,Climatology,Environmental science
+C49774154,1,Multimedia,Computer science
+C502942594,1,Cancer research,Medicine
+C50522688,1,Economic growth,Economics
+C505870484,1,Fishery,Environmental science
+C509550671,1,Medical education,Medicine
+C512399662,1,Family medicine,Medicine
+C52119013,1,Art history,Art
+C524765639,1,Water resource management,Environmental science
+C526734887,1,Environmental protection,Environmental science
+C528095902,1,Pulp and paper industry,Engineering
+C53553401,1,Genealogy,History
+C539667460,1,Management science,Business
+C542102704,1,Psychotherapist,Psychology
+C54286561,1,Agroforestry,Environmental science
+C54355233,1,Genetics,Biology
+C545542383,1,Medical emergency,Medicine
+C54750564,1,Commerce,Business
+C548081761,1,Waste management,Environmental science
+C548259974,1,Audiology,Medicine
+C549774020,1,Welfare economics,Economics
+C55493867,1,Biochemistry,Biology
+C55587333,1,Engineering ethics,Engineering
+C556039675,1,Traditional medicine,Medicine
+C556758197,1,Monetary economics,Economics
+C56739046,1,Knowledge management,Business
+C57879066,1,Mechanics,Physics
+C58640448,1,Cartography,Geography
+C5900021,1,Petrology,Geology
+C59822182,1,Botany,Biology
+C60644358,1,Bioinformatics,Computer science
+C61434518,1,General surgery,Medicine
+C61696701,1,Engineering physics,Engineering
+C62520636,1,Quantum mechanics,Physics
+C62649853,1,Remote sensing,Geography
+C6303427,1,Economic history,History
+C6557445,1,Agronomy,Biology
+C66938386,1,Structural engineering,Engineering
+C70410870,1,Clinical psychology,Psychology
+C70721500,1,Computational biology,Computer science
+C71240020,1,Stereochemistry,Chemistry
+C71924100,0,Medicine,Medicine
+C73283319,1,Financial system,Economics
+C73484699,1,Criminology,Sociology
+C74363100,1,Economic system,Economics
+C74650414,1,Classical mechanics,Physics
+C74909509,1,Gerontology,Medicine
+C74916050,1,Classics,History
+C75473681,1,Photochemistry,Chemistry
+C75630572,1,Applied psychology,Psychology
+C76155785,1,Telecommunications,Engineering
+C77088390,1,Database,Computer science
+C77595967,1,Forensic engineering,Engineering
+C77805123,1,Social psychology,Psychology
+C78458016,1,Evolutionary biology,Biology
+C78519656,1,Mechanical engineering,Engineering
+C78762247,1,Petroleum engineering,Engineering
+C79403827,1,Real-time computing,Computer science
+C8010536,1,Crystallography,Physics
+C80444323,1,Theoretical computer science,Computer science
+C8058405,1,Geophysics,Physics
+C86803240,0,Biology,Biology
+C87355193,1,Astrobiology,Biology
+C87717796,1,Environmental engineering,Engineering
+C88463610,1,Agricultural engineering,Engineering
+C89423630,1,Microbiology,Biology
+C90856448,1,Zoology,Biology
+C90924648,1,Gastroenterology,Medicine
+C91375879,1,Environmental planning,Environmental science
+C91586092,1,Atmospheric sciences,Environmental science
+C9390403,1,Computer hardware,Computer science
+C94375191,1,Arithmetic,Mathematics
+C95124753,1,Environmental ethics,Philosophy
+C95444343,1,Cell biology,Biology
+C95457728,0,History,History
+C97137747,1,Forestry,Environmental science
+C97355855,1,Thermodynamics,Physics
+C98274493,1,Pharmacology,Medicine
+C99454951,1,Environmental health,Environmental science
+C99508421,1,Physical medicine and rehabilitation,Medicine
