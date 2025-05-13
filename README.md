@@ -41,7 +41,7 @@ Or from the command line:
 ```
 python ./network/kpm.py
 ```
-## To construct and visualize the KPN for disciplines:
+## To construct and visualize the KPN for disciplines
 `kpn.py` provides a framework for constructing and analyzing **Knowledge Precedence Networks (KPNs)** from research trajectories.
 
 ```python
