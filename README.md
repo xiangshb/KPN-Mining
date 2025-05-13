@@ -53,8 +53,8 @@ kpn_parms = KPNParams(
     disciplines=['Mathematics', 'Computer science'],
     row_normalize=False,
     threshold_mode='value_count_limit',
-    cvm_threshold=0.9,
-    cfm_threshold=0.15,
+    cvm_threshold=0.95,
+    cfm_threshold=0.2,
     graph_show=True,
     save_kpn=True
 )
