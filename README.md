@@ -2,16 +2,16 @@
 Source code for knowledge precedence netowrk mining
 
 ## To construct co-citing network
-`ccn.py` is a Python toolkit for **constructing and analyzing Co-Citation Networks (CCN)**, designed for large-scale bibliometric research, scientific knowledge mapping, and scholarly community evolution studies. It focuses on the automated batch generation of author-level co-citation networks, community detection, semantic similarity analysis, and efficient data processing with parallelization.
+`ccn.py` is a Python toolkit for **constructing and analyzing Co-Citing Networks (CCN)**, designed for large-scale bibliometric research, scientific knowledge mapping, and scholarly community evolution studies. It focuses on the automated batch generation of author-level Co-Citing networks, community detection, semantic similarity analysis, and efficient data processing with parallelization.
 
-To generate co-citation networks in parallel, run:
+To generate Co-Citing networks in parallel, run:
 
 ```
 python ./network/ccn.py --min_papers 10 --n_workers 16 --parallel True
 ```
 
 ## To calculate and visualize the APYD distribution:
-`apyd.py` provides tools for **analyzing temporal differences between research communities** within co-citation networks.
+`apyd.py` provides tools for **analyzing temporal differences between research communities** within Co-Citing networks.
 
 ```
 python ./network/apyd.py
