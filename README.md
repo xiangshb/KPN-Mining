@@ -10,7 +10,7 @@ To generate Co-Citing networks in parallel, run:
 python ./network/ccn.py --min_papers 10 --n_workers 16 --parallel True
 ```
 
-## To calculate and visualize the APYD distribution:
+## To calculate and visualize the APYD distribution
 `apyd.py` provides tools for **analyzing temporal differences between research communities** within Co-Citing networks.
 
 ```
