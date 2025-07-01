@@ -89,7 +89,7 @@ The following sample data files are included in the repository:
 df_authors_works, df_works_concepts = self.query_author_data(author_batch)
 ```
 
-## using sample data
+## Using sample data
 ```
 import pandas as pd
 import os.path as op
