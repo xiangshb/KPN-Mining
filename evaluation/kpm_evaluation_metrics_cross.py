@@ -36,7 +36,7 @@ class KPMEvaluator:
         self.db_manager = DatabaseManager()
         self.APYD = APYDAnalyzer()
         self.kpn_parms = kpn_parms
-        self.sciconnav_embedding, self.valid_concepts = self.load_sciconnav_embedding()
+        self.sciconnav_embedding, self.valid_concepts = self.load_concept_embedding()
         self.concepts_table = Concept.discipline_category_classification_llm(with_abbreviation=True)
         if self.sub_discipline:
             self.llm_pair_id_dicts, self.llm_pair_dicts, self.positive_id_gt_pairs, self.positive_gt_pairs = self.load_sub_llm_annotation_results()
@@ -62,7 +62,7 @@ class KPMEvaluator:
         self.periods = ['early', 'middle', 'later']
         self.wcrs = [1, 0.95, 0.9, 0.85, 0.8, 0.75, 0.7, 0.65, 0.6]
 
-    def load_sciconnav_embedding(self):
+    def load_concept_embedding(self):
         from gensim.models import Word2Vec
         
         model_path = op.join(self.path_manager.ccns_dir, 'Word2Vec_dim_24_epoch_100.model')
