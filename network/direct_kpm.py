@@ -31,7 +31,7 @@ class IntegratedKPMGenerator:
         self.logger = logging.getLogger(__name__)
         self.db_manager = DatabaseManager()
         self.APYD = APYDAnalyzer()
-        self.sciconnav_embedding, self.valid_concepts = self.load_sciconnav_embedding()
+        self.sciconnav_embedding, self.valid_concepts = self.load_concept_embedding()
         self.concepts_table = Concept.discipline_category_classification_llm(with_abbreviation=True)
         self.llm_pair_dict, self.positive_gt_pairs = self.load_llm_annotation_results()
         self.target_concepts = pd.read_csv(op.join('./llm_cross_annotation/df_selected_cross_concepts.csv'))
@@ -40,7 +40,7 @@ class IntegratedKPMGenerator:
         self.target_concept_names = self.target_concepts.display_name.tolist()
         self.concept_id_to_name = self.target_concepts.set_index('id')['display_name'].to_dict()
 
-    def load_sciconnav_embedding(self):
+    def load_concept_embedding(self):
         from gensim.models import Word2Vec
         
         model_path = op.join(self.path_manager.ccns_dir, 'Word2Vec_dim_24_epoch_100.model')
