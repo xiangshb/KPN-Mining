@@ -88,6 +88,12 @@ The following sample data files are included in the repository:
 ```python
 df_authors_works, df_works_concepts = self.query_author_data(author_batch)
 ```
+#### For `direct_kpm_ave_degree_resolution_all_sensitivity.py`
+
+**Original code (database query):**
+```python
+df_authors_works, df_works_concepts = self.query_author_data_with_manager(author_batch, local_db_manager)
+```
 
 ## Using sample data
 ```
