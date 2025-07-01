@@ -144,7 +144,7 @@ class ParallelKPMGenerator:
         self.db_manager = DatabaseManager()
         self.logger = logging.getLogger(__name__)
         self.debugging = debugging
-        self.sciconnav_embedding, self.valid_concepts = self.load_sciconnav_embedding()
+        self.sciconnav_embedding, self.valid_concepts = self.load_concept_embedding()
         self.concepts_table = Concept.discipline_category_classification_llm(with_abbreviation=True)
         self.target_concepts = pd.read_csv(op.join('./llm_annotation/df_selected_top_concepts.csv'))
         self.target_concepts = self.target_concepts.loc[self.target_concepts.display_name.isin(self.valid_concepts)]
@@ -168,7 +168,7 @@ class ParallelKPMGenerator:
             except:
                 pass
 
-    def load_sciconnav_embedding(self):
+    def load_concept_embedding(self):
         from gensim.models import Word2Vec
         
         model_path = op.join(self.path_manager.ccns_dir, 'Word2Vec_dim_24_epoch_100.model')
