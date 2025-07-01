@@ -72,7 +72,7 @@ To facilitate code reproduction and testing, we provide sample datasets that rep
 
 ### Sample Data Files
 
-The following sample data files are included in the repository:
+The following sample data files are included in the `./sample_data` directory:
 
 | File | Description | Original Source |
 |------|-------------|-----------------|
