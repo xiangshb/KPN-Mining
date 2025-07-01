@@ -64,3 +64,39 @@ G_kpn, df_edges = kpn.kpn_analysis(params=params, kpn_parms=kpn_parms)
 ```
 
 ---
+
+
+## Sample Data
+
+To facilitate code reproduction and testing, we provide sample datasets that replicate the data structure and workflow of our analysis pipeline.
+
+### Sample Data Files
+
+The following sample data files are included in the repository:
+
+| File | Description | Original Source |
+|------|-------------|-----------------|
+| `sample_author_ids.csv` | Sample author IDs used as input | Corresponds to `author_batch` variable |
+| `sample_author_authors_works.parquet` | Author-work relationships data | Output of `query_author_data()` - `df_authors_works` |
+| `sample_works_concepts.csv` | Work-concept mappings data | Output of `query_author_data()` - `df_works_concepts` |
+
+### Usage Instructions
+
+#### For `direct_kmp.py`
+
+**Original code (database query):**
+```python
+df_authors_works, df_works_concepts = self.query_author_data(author_batch)
+
+## using sample data
+```
+import pandas as pd
+import os.path as op
+
+author_batch = pd.read_csv(op.join(self.path_manager.base_data_dir, 'sample_author_ids.csv'))
+df_authors_works = pd.read_parquet(op.join(self.path_manager.base_data_dir, 'sample_author_authors_works.parquet'))
+df_works_concepts = pd.read_csv(op.join(self.path_manager.base_data_dir, 'sample_works_concepts.csv'))
+```
+
+
+
