@@ -77,8 +77,8 @@ The following sample data files are included in the repository:
 | File | Description | Original Source |
 |------|-------------|-----------------|
 | `sample_author_ids.csv` | Sample author IDs used as input | Corresponds to `author_batch` variable |
-| `sample_author_authors_works.parquet` | Author-work relationships data | Output of `query_author_data()` - `df_authors_works` |
-| `sample_works_concepts.csv` | Work-concept mappings data | Output of `query_author_data()` - `df_works_concepts` |
+| `sample_author_authors_works.parquet` | Author-work relationships data | Output of `self.query_author_data(author_batch)` - `df_authors_works` |
+| `sample_works_concepts.csv` | Work-concept mappings data | Output of `self.query_author_data(author_batch)` - `df_works_concepts` |
 
 ### Usage Instructions
 
