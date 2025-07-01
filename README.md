@@ -100,9 +100,9 @@ df_authors_works, df_works_concepts = self.query_author_data_with_manager(author
 import pandas as pd
 import os.path as op
 
-author_batch = pd.read_csv(op.join(`./sample_data`, 'sample_author_ids.csv'))
-df_authors_works = pd.read_parquet(`./sample_data`, 'sample_author_authors_works.parquet'))
-df_works_concepts = pd.read_csv(`./sample_data`, 'sample_works_concepts.csv'))
+author_batch = pd.read_csv('./sample_data/sample_author_ids.csv')
+df_authors_works = pd.read_parquet('./sample_data/sample_author_authors_works.parquet')
+df_works_concepts = pd.read_csv('./sample_data/sample_works_concepts.csv')
 ```
 
 
